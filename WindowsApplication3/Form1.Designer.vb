@@ -192,7 +192,7 @@ Partial Class Form1
         'Button1
         '
         Me.Button1.Font = New System.Drawing.Font("Verdana", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button1.Location = New System.Drawing.Point(39, 836)
+        Me.Button1.Location = New System.Drawing.Point(39, 711)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(85, 40)
         Me.Button1.TabIndex = 42
@@ -202,7 +202,7 @@ Partial Class Form1
         'Button2
         '
         Me.Button2.Font = New System.Drawing.Font("Verdana", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button2.Location = New System.Drawing.Point(130, 836)
+        Me.Button2.Location = New System.Drawing.Point(130, 711)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(88, 40)
         Me.Button2.TabIndex = 43
@@ -213,7 +213,7 @@ Partial Class Form1
         '
         Me.TextBox43.BackColor = System.Drawing.SystemColors.Info
         Me.TextBox43.Font = New System.Drawing.Font("Verdana", 9.0!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox43.Location = New System.Drawing.Point(339, 834)
+        Me.TextBox43.Location = New System.Drawing.Point(339, 709)
         Me.TextBox43.Multiline = True
         Me.TextBox43.Name = "TextBox43"
         Me.TextBox43.Size = New System.Drawing.Size(100, 40)
@@ -225,7 +225,7 @@ Partial Class Form1
         '
         Me.TextBox44.BackColor = System.Drawing.SystemColors.Info
         Me.TextBox44.Font = New System.Drawing.Font("Verdana", 8.25!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox44.Location = New System.Drawing.Point(445, 834)
+        Me.TextBox44.Location = New System.Drawing.Point(445, 709)
         Me.TextBox44.Multiline = True
         Me.TextBox44.Name = "TextBox44"
         Me.TextBox44.Size = New System.Drawing.Size(400, 40)
@@ -416,7 +416,7 @@ Partial Class Form1
         '
         Me.TextBox3.BackColor = System.Drawing.Color.Brown
         Me.TextBox3.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox3.Location = New System.Drawing.Point(39, 788)
+        Me.TextBox3.Location = New System.Drawing.Point(39, 663)
         Me.TextBox3.Multiline = True
         Me.TextBox3.Name = "TextBox3"
         Me.TextBox3.Size = New System.Drawing.Size(145, 42)
@@ -426,7 +426,7 @@ Partial Class Form1
         '
         Me.ComboBox31.FormattingEnabled = True
         Me.ComboBox31.Items.AddRange(New Object() {"M", "K", "D", "T", "▲"})
-        Me.ComboBox31.Location = New System.Drawing.Point(214, 797)
+        Me.ComboBox31.Location = New System.Drawing.Point(214, 672)
         Me.ComboBox31.Name = "ComboBox31"
         Me.ComboBox31.Size = New System.Drawing.Size(71, 21)
         Me.ComboBox31.TabIndex = 77
@@ -435,7 +435,7 @@ Partial Class Form1
         '
         Me.ComboBox32.FormattingEnabled = True
         Me.ComboBox32.Items.AddRange(New Object() {"M", "K", "D", "T", "▲"})
-        Me.ComboBox32.Location = New System.Drawing.Point(292, 797)
+        Me.ComboBox32.Location = New System.Drawing.Point(292, 672)
         Me.ComboBox32.Name = "ComboBox32"
         Me.ComboBox32.Size = New System.Drawing.Size(70, 21)
         Me.ComboBox32.TabIndex = 78
@@ -444,7 +444,7 @@ Partial Class Form1
         '
         Me.ComboBox33.FormattingEnabled = True
         Me.ComboBox33.Items.AddRange(New Object() {"M", "K", "D", "T", "▲", "▬"})
-        Me.ComboBox33.Location = New System.Drawing.Point(368, 797)
+        Me.ComboBox33.Location = New System.Drawing.Point(368, 672)
         Me.ComboBox33.Name = "ComboBox33"
         Me.ComboBox33.Size = New System.Drawing.Size(71, 21)
         Me.ComboBox33.TabIndex = 79
@@ -453,7 +453,7 @@ Partial Class Form1
         '
         Me.ComboBox34.FormattingEnabled = True
         Me.ComboBox34.Items.AddRange(New Object() {"M", "K", "D", "T", "▲", "▬"})
-        Me.ComboBox34.Location = New System.Drawing.Point(445, 797)
+        Me.ComboBox34.Location = New System.Drawing.Point(445, 672)
         Me.ComboBox34.Name = "ComboBox34"
         Me.ComboBox34.Size = New System.Drawing.Size(71, 21)
         Me.ComboBox34.TabIndex = 80
@@ -462,7 +462,7 @@ Partial Class Form1
         '
         Me.ComboBox35.FormattingEnabled = True
         Me.ComboBox35.Items.AddRange(New Object() {"M", "K", "D", "T", "▲"})
-        Me.ComboBox35.Location = New System.Drawing.Point(522, 797)
+        Me.ComboBox35.Location = New System.Drawing.Point(522, 672)
         Me.ComboBox35.Name = "ComboBox35"
         Me.ComboBox35.Size = New System.Drawing.Size(71, 21)
         Me.ComboBox35.TabIndex = 81
@@ -471,7 +471,7 @@ Partial Class Form1
         '
         Me.ComboBox36.FormattingEnabled = True
         Me.ComboBox36.Items.AddRange(New Object() {"M", "K", "D", "T", "▲"})
-        Me.ComboBox36.Location = New System.Drawing.Point(599, 797)
+        Me.ComboBox36.Location = New System.Drawing.Point(599, 672)
         Me.ComboBox36.Name = "ComboBox36"
         Me.ComboBox36.Size = New System.Drawing.Size(71, 21)
         Me.ComboBox36.TabIndex = 82
@@ -480,7 +480,7 @@ Partial Class Form1
         '
         Me.TextBox4.BackColor = System.Drawing.Color.Brown
         Me.TextBox4.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox4.Location = New System.Drawing.Point(700, 788)
+        Me.TextBox4.Location = New System.Drawing.Point(700, 663)
         Me.TextBox4.Multiline = True
         Me.TextBox4.Name = "TextBox4"
         Me.TextBox4.Size = New System.Drawing.Size(145, 40)
@@ -490,7 +490,7 @@ Partial Class Form1
         'TextBox5
         '
         Me.TextBox5.Font = New System.Drawing.Font("Verdana", 8.25!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox5.Location = New System.Drawing.Point(742, 904)
+        Me.TextBox5.Location = New System.Drawing.Point(742, 779)
         Me.TextBox5.Name = "TextBox5"
         Me.TextBox5.ReadOnly = True
         Me.TextBox5.Size = New System.Drawing.Size(135, 21)
@@ -774,7 +774,7 @@ Partial Class Form1
         '
         Me.TextBox14.BackColor = System.Drawing.SystemColors.GradientInactiveCaption
         Me.TextBox14.Font = New System.Drawing.Font("Verdana", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox14.Location = New System.Drawing.Point(39, 534)
+        Me.TextBox14.Location = New System.Drawing.Point(39, 478)
         Me.TextBox14.Multiline = True
         Me.TextBox14.Name = "TextBox14"
         Me.TextBox14.Size = New System.Drawing.Size(145, 167)
@@ -785,7 +785,7 @@ Partial Class Form1
         '
         Me.TextBox15.BackColor = System.Drawing.SystemColors.GradientInactiveCaption
         Me.TextBox15.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox15.Location = New System.Drawing.Point(214, 659)
+        Me.TextBox15.Location = New System.Drawing.Point(214, 603)
         Me.TextBox15.Multiline = True
         Me.TextBox15.Name = "TextBox15"
         Me.TextBox15.Size = New System.Drawing.Size(145, 42)
@@ -796,7 +796,7 @@ Partial Class Form1
         '
         Me.TextBox16.BackColor = System.Drawing.SystemColors.GradientInactiveCaption
         Me.TextBox16.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox16.Location = New System.Drawing.Point(214, 596)
+        Me.TextBox16.Location = New System.Drawing.Point(214, 540)
         Me.TextBox16.Multiline = True
         Me.TextBox16.Name = "TextBox16"
         Me.TextBox16.Size = New System.Drawing.Size(145, 42)
@@ -807,7 +807,7 @@ Partial Class Form1
         '
         Me.TextBox17.BackColor = System.Drawing.SystemColors.GradientInactiveCaption
         Me.TextBox17.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox17.Location = New System.Drawing.Point(214, 534)
+        Me.TextBox17.Location = New System.Drawing.Point(214, 478)
         Me.TextBox17.Multiline = True
         Me.TextBox17.Name = "TextBox17"
         Me.TextBox17.Size = New System.Drawing.Size(145, 42)
@@ -818,7 +818,7 @@ Partial Class Form1
         '
         Me.TextBox18.BackColor = System.Drawing.SystemColors.InactiveCaption
         Me.TextBox18.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox18.Location = New System.Drawing.Point(525, 659)
+        Me.TextBox18.Location = New System.Drawing.Point(525, 603)
         Me.TextBox18.Multiline = True
         Me.TextBox18.Name = "TextBox18"
         Me.TextBox18.Size = New System.Drawing.Size(145, 42)
@@ -830,7 +830,7 @@ Partial Class Form1
         '
         Me.TextBox19.BackColor = System.Drawing.SystemColors.InactiveCaption
         Me.TextBox19.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox19.Location = New System.Drawing.Point(525, 596)
+        Me.TextBox19.Location = New System.Drawing.Point(525, 540)
         Me.TextBox19.Multiline = True
         Me.TextBox19.Name = "TextBox19"
         Me.TextBox19.Size = New System.Drawing.Size(145, 42)
@@ -842,7 +842,7 @@ Partial Class Form1
         '
         Me.TextBox20.BackColor = System.Drawing.SystemColors.InactiveCaption
         Me.TextBox20.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox20.Location = New System.Drawing.Point(525, 534)
+        Me.TextBox20.Location = New System.Drawing.Point(525, 478)
         Me.TextBox20.Multiline = True
         Me.TextBox20.Name = "TextBox20"
         Me.TextBox20.Size = New System.Drawing.Size(145, 42)
@@ -854,7 +854,7 @@ Partial Class Form1
         '
         Me.TextBox21.BackColor = System.Drawing.SystemColors.InactiveCaption
         Me.TextBox21.Font = New System.Drawing.Font("Verdana", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox21.Location = New System.Drawing.Point(700, 534)
+        Me.TextBox21.Location = New System.Drawing.Point(700, 480)
         Me.TextBox21.Multiline = True
         Me.TextBox21.Name = "TextBox21"
         Me.TextBox21.Size = New System.Drawing.Size(145, 165)
@@ -867,7 +867,7 @@ Partial Class Form1
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.Window
-        Me.ClientSize = New System.Drawing.Size(889, 937)
+        Me.ClientSize = New System.Drawing.Size(889, 817)
         Me.Controls.Add(Me.TextBox21)
         Me.Controls.Add(Me.TextBox18)
         Me.Controls.Add(Me.TextBox19)
