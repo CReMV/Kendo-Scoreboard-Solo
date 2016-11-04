@@ -100,6 +100,14 @@ Partial Class Form2
         Me.TextBox76 = New System.Windows.Forms.TextBox()
         Me.TextBox77 = New System.Windows.Forms.TextBox()
         Me.TextBox78 = New System.Windows.Forms.TextBox()
+        Me.TextBox79 = New System.Windows.Forms.TextBox()
+        Me.TextBox80 = New System.Windows.Forms.TextBox()
+        Me.TextBox81 = New System.Windows.Forms.TextBox()
+        Me.TextBox82 = New System.Windows.Forms.TextBox()
+        Me.TextBox83 = New System.Windows.Forms.TextBox()
+        Me.TextBox84 = New System.Windows.Forms.TextBox()
+        Me.TextBox85 = New System.Windows.Forms.TextBox()
+        Me.TextBox86 = New System.Windows.Forms.TextBox()
         Me.SuspendLayout()
         '
         'TextBox1
@@ -858,12 +866,88 @@ Partial Class Form2
         Me.TextBox78.Size = New System.Drawing.Size(200, 40)
         Me.TextBox78.TabIndex = 94
         '
+        'TextBox79
+        '
+        Me.TextBox79.BackColor = System.Drawing.SystemColors.InactiveCaption
+        Me.TextBox79.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
+        Me.TextBox79.Location = New System.Drawing.Point(44, 551)
+        Me.TextBox79.Multiline = True
+        Me.TextBox79.Name = "TextBox79"
+        Me.TextBox79.Size = New System.Drawing.Size(200, 42)
+        Me.TextBox79.TabIndex = 95
+        '
+        'TextBox80
+        '
+        Me.TextBox80.Location = New System.Drawing.Point(250, 551)
+        Me.TextBox80.Multiline = True
+        Me.TextBox80.Name = "TextBox80"
+        Me.TextBox80.Size = New System.Drawing.Size(60, 42)
+        Me.TextBox80.TabIndex = 96
+        '
+        'TextBox81
+        '
+        Me.TextBox81.Location = New System.Drawing.Point(316, 551)
+        Me.TextBox81.Multiline = True
+        Me.TextBox81.Name = "TextBox81"
+        Me.TextBox81.Size = New System.Drawing.Size(60, 42)
+        Me.TextBox81.TabIndex = 97
+        '
+        'TextBox82
+        '
+        Me.TextBox82.Location = New System.Drawing.Point(382, 551)
+        Me.TextBox82.Multiline = True
+        Me.TextBox82.Name = "TextBox82"
+        Me.TextBox82.Size = New System.Drawing.Size(60, 42)
+        Me.TextBox82.TabIndex = 98
+        '
+        'TextBox83
+        '
+        Me.TextBox83.Location = New System.Drawing.Point(448, 551)
+        Me.TextBox83.Multiline = True
+        Me.TextBox83.Name = "TextBox83"
+        Me.TextBox83.Size = New System.Drawing.Size(61, 42)
+        Me.TextBox83.TabIndex = 99
+        '
+        'TextBox84
+        '
+        Me.TextBox84.Location = New System.Drawing.Point(515, 551)
+        Me.TextBox84.Multiline = True
+        Me.TextBox84.Name = "TextBox84"
+        Me.TextBox84.Size = New System.Drawing.Size(60, 42)
+        Me.TextBox84.TabIndex = 100
+        '
+        'TextBox85
+        '
+        Me.TextBox85.Location = New System.Drawing.Point(581, 551)
+        Me.TextBox85.Multiline = True
+        Me.TextBox85.Name = "TextBox85"
+        Me.TextBox85.Size = New System.Drawing.Size(60, 42)
+        Me.TextBox85.TabIndex = 101
+        '
+        'TextBox86
+        '
+        Me.TextBox86.BackColor = System.Drawing.SystemColors.InactiveCaption
+        Me.TextBox86.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
+        Me.TextBox86.Location = New System.Drawing.Point(647, 551)
+        Me.TextBox86.Multiline = True
+        Me.TextBox86.Name = "TextBox86"
+        Me.TextBox86.Size = New System.Drawing.Size(197, 42)
+        Me.TextBox86.TabIndex = 102
+        '
         'Form2
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.Menu
         Me.ClientSize = New System.Drawing.Size(897, 747)
+        Me.Controls.Add(Me.TextBox86)
+        Me.Controls.Add(Me.TextBox85)
+        Me.Controls.Add(Me.TextBox84)
+        Me.Controls.Add(Me.TextBox83)
+        Me.Controls.Add(Me.TextBox82)
+        Me.Controls.Add(Me.TextBox81)
+        Me.Controls.Add(Me.TextBox80)
+        Me.Controls.Add(Me.TextBox79)
         Me.Controls.Add(Me.TextBox78)
         Me.Controls.Add(Me.TextBox77)
         Me.Controls.Add(Me.TextBox76)
@@ -1028,4 +1112,12 @@ Partial Class Form2
     Friend WithEvents TextBox76 As TextBox
     Friend WithEvents TextBox77 As TextBox
     Friend WithEvents TextBox78 As TextBox
+    Friend WithEvents TextBox79 As TextBox
+    Friend WithEvents TextBox80 As TextBox
+    Friend WithEvents TextBox81 As TextBox
+    Friend WithEvents TextBox82 As TextBox
+    Friend WithEvents TextBox83 As TextBox
+    Friend WithEvents TextBox84 As TextBox
+    Friend WithEvents TextBox85 As TextBox
+    Friend WithEvents TextBox86 As TextBox
 End Class
