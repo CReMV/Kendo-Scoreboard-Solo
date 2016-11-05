@@ -10,6 +10,18 @@
     Private Sub TextBox6_TextChanged(sender As Object, e As EventArgs)
 
     End Sub
+
+    Private Sub TextBox20_TextChanged(sender As Object, e As EventArgs) Handles TextBox20.TextChanged
+
+    End Sub
+
+    Private Sub Label60_Click(sender As Object, e As EventArgs) Handles Label60.Click
+
+    End Sub
+
+    Private Sub Label29_Click(sender As Object, e As EventArgs) Handles Label29.Click
+
+    End Sub
 End Class
 Public Class OutputResizer
 

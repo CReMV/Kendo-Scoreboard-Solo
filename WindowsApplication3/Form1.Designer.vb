@@ -63,6 +63,12 @@ Partial Class Form1
         Me.ComboBox10 = New System.Windows.Forms.ComboBox()
         Me.ComboBox11 = New System.Windows.Forms.ComboBox()
         Me.ComboBox12 = New System.Windows.Forms.ComboBox()
+        Me.TextBox7 = New System.Windows.Forms.TextBox()
+        Me.TextBox14 = New System.Windows.Forms.TextBox()
+        Me.TextBox21 = New System.Windows.Forms.TextBox()
+        Me.TextBox23 = New System.Windows.Forms.TextBox()
+        Me.TextBox24 = New System.Windows.Forms.TextBox()
+        Me.TextBox25 = New System.Windows.Forms.TextBox()
         Me.ComboBox13 = New System.Windows.Forms.ComboBox()
         Me.ComboBox14 = New System.Windows.Forms.ComboBox()
         Me.ComboBox15 = New System.Windows.Forms.ComboBox()
@@ -111,6 +117,36 @@ Partial Class Form1
         Me.ComboBox58 = New System.Windows.Forms.ComboBox()
         Me.ComboBox59 = New System.Windows.Forms.ComboBox()
         Me.ComboBox60 = New System.Windows.Forms.ComboBox()
+        Me.ComboBox61 = New System.Windows.Forms.ComboBox()
+        Me.ComboBox62 = New System.Windows.Forms.ComboBox()
+        Me.ComboBox63 = New System.Windows.Forms.ComboBox()
+        Me.ComboBox64 = New System.Windows.Forms.ComboBox()
+        Me.ComboBox65 = New System.Windows.Forms.ComboBox()
+        Me.ComboBox66 = New System.Windows.Forms.ComboBox()
+        Me.ComboBox67 = New System.Windows.Forms.ComboBox()
+        Me.ComboBox68 = New System.Windows.Forms.ComboBox()
+        Me.ComboBox69 = New System.Windows.Forms.ComboBox()
+        Me.ComboBox70 = New System.Windows.Forms.ComboBox()
+        Me.ComboBox71 = New System.Windows.Forms.ComboBox()
+        Me.ComboBox72 = New System.Windows.Forms.ComboBox()
+        Me.ComboBox73 = New System.Windows.Forms.ComboBox()
+        Me.ComboBox74 = New System.Windows.Forms.ComboBox()
+        Me.ComboBox75 = New System.Windows.Forms.ComboBox()
+        Me.ComboBox76 = New System.Windows.Forms.ComboBox()
+        Me.ComboBox77 = New System.Windows.Forms.ComboBox()
+        Me.ComboBox78 = New System.Windows.Forms.ComboBox()
+        Me.Button3 = New System.Windows.Forms.Button()
+        Me.Button4 = New System.Windows.Forms.Button()
+        Me.Button5 = New System.Windows.Forms.Button()
+        Me.Button6 = New System.Windows.Forms.Button()
+        Me.Button7 = New System.Windows.Forms.Button()
+        Me.Button8 = New System.Windows.Forms.Button()
+        Me.Button9 = New System.Windows.Forms.Button()
+        Me.Button10 = New System.Windows.Forms.Button()
+        Me.Button11 = New System.Windows.Forms.Button()
+        Me.Button12 = New System.Windows.Forms.Button()
+        Me.Button13 = New System.Windows.Forms.Button()
+        Me.Button14 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'TextBox1
@@ -145,29 +181,29 @@ Partial Class Form1
         Me.TextBox33.Name = "TextBox33"
         Me.TextBox33.Size = New System.Drawing.Size(174, 42)
         Me.TextBox33.TabIndex = 32
-        Me.TextBox33.Text = "Player"
+        Me.TextBox33.Text = "Player1"
         '
         'TextBox34
         '
         Me.TextBox34.BackColor = System.Drawing.SystemColors.GradientInactiveCaption
         Me.TextBox34.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox34.Location = New System.Drawing.Point(39, 135)
+        Me.TextBox34.Location = New System.Drawing.Point(39, 121)
         Me.TextBox34.Multiline = True
         Me.TextBox34.Name = "TextBox34"
         Me.TextBox34.Size = New System.Drawing.Size(174, 42)
         Me.TextBox34.TabIndex = 33
-        Me.TextBox34.Text = "Player"
+        Me.TextBox34.Text = "Player2"
         '
         'TextBox35
         '
         Me.TextBox35.BackColor = System.Drawing.SystemColors.GradientInactiveCaption
         Me.TextBox35.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox35.Location = New System.Drawing.Point(39, 198)
+        Me.TextBox35.Location = New System.Drawing.Point(39, 169)
         Me.TextBox35.Multiline = True
         Me.TextBox35.Name = "TextBox35"
         Me.TextBox35.Size = New System.Drawing.Size(174, 42)
         Me.TextBox35.TabIndex = 34
-        Me.TextBox35.Text = "Player"
+        Me.TextBox35.Text = "Player3"
         '
         'TextBox38
         '
@@ -178,37 +214,37 @@ Partial Class Form1
         Me.TextBox38.Name = "TextBox38"
         Me.TextBox38.Size = New System.Drawing.Size(174, 42)
         Me.TextBox38.TabIndex = 37
-        Me.TextBox38.Text = "Player"
+        Me.TextBox38.Text = "Player7"
         Me.TextBox38.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'TextBox39
         '
         Me.TextBox39.BackColor = System.Drawing.SystemColors.InactiveCaption
         Me.TextBox39.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox39.Location = New System.Drawing.Point(671, 135)
+        Me.TextBox39.Location = New System.Drawing.Point(671, 121)
         Me.TextBox39.Multiline = True
         Me.TextBox39.Name = "TextBox39"
         Me.TextBox39.Size = New System.Drawing.Size(174, 42)
         Me.TextBox39.TabIndex = 38
-        Me.TextBox39.Text = "Player"
+        Me.TextBox39.Text = "Player8"
         Me.TextBox39.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'TextBox40
         '
         Me.TextBox40.BackColor = System.Drawing.SystemColors.InactiveCaption
         Me.TextBox40.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox40.Location = New System.Drawing.Point(671, 198)
+        Me.TextBox40.Location = New System.Drawing.Point(670, 169)
         Me.TextBox40.Multiline = True
         Me.TextBox40.Name = "TextBox40"
         Me.TextBox40.Size = New System.Drawing.Size(174, 42)
         Me.TextBox40.TabIndex = 39
-        Me.TextBox40.Text = "Player"
+        Me.TextBox40.Text = "Player9"
         Me.TextBox40.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'Button1
         '
         Me.Button1.Font = New System.Drawing.Font("Verdana", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button1.Location = New System.Drawing.Point(39, 765)
+        Me.Button1.Location = New System.Drawing.Point(39, 758)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(85, 40)
         Me.Button1.TabIndex = 42
@@ -218,7 +254,7 @@ Partial Class Form1
         'Button2
         '
         Me.Button2.Font = New System.Drawing.Font("Verdana", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button2.Location = New System.Drawing.Point(130, 765)
+        Me.Button2.Location = New System.Drawing.Point(125, 758)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(88, 40)
         Me.Button2.TabIndex = 43
@@ -229,7 +265,7 @@ Partial Class Form1
         '
         Me.TextBox43.BackColor = System.Drawing.SystemColors.Info
         Me.TextBox43.Font = New System.Drawing.Font("Verdana", 9.0!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox43.Location = New System.Drawing.Point(224, 765)
+        Me.TextBox43.Location = New System.Drawing.Point(214, 758)
         Me.TextBox43.Multiline = True
         Me.TextBox43.Name = "TextBox43"
         Me.TextBox43.Size = New System.Drawing.Size(100, 40)
@@ -241,7 +277,7 @@ Partial Class Form1
         '
         Me.TextBox44.BackColor = System.Drawing.SystemColors.Info
         Me.TextBox44.Font = New System.Drawing.Font("Verdana", 8.25!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox44.Location = New System.Drawing.Point(330, 766)
+        Me.TextBox44.Location = New System.Drawing.Point(320, 759)
         Me.TextBox44.Multiline = True
         Me.TextBox44.Name = "TextBox44"
         Me.TextBox44.Size = New System.Drawing.Size(400, 40)
@@ -262,28 +298,29 @@ Partial Class Form1
         '
         Me.TextBox3.BackColor = System.Drawing.Color.Brown
         Me.TextBox3.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox3.Location = New System.Drawing.Point(39, 707)
+        Me.TextBox3.Location = New System.Drawing.Point(39, 710)
         Me.TextBox3.Multiline = True
         Me.TextBox3.Name = "TextBox3"
         Me.TextBox3.Size = New System.Drawing.Size(174, 42)
         Me.TextBox3.TabIndex = 76
+        Me.TextBox3.Text = "Paratasi"
         '
         'TextBox4
         '
         Me.TextBox4.BackColor = System.Drawing.Color.Brown
         Me.TextBox4.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox4.Location = New System.Drawing.Point(671, 707)
+        Me.TextBox4.Location = New System.Drawing.Point(671, 710)
         Me.TextBox4.Multiline = True
         Me.TextBox4.Name = "TextBox4"
         Me.TextBox4.Size = New System.Drawing.Size(174, 40)
         Me.TextBox4.TabIndex = 83
-        Me.TextBox4.Text = "paratasi"
+        Me.TextBox4.Text = "Paratasi"
         Me.TextBox4.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'TextBox5
         '
         Me.TextBox5.Font = New System.Drawing.Font("Verdana", 8.25!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox5.Location = New System.Drawing.Point(742, 779)
+        Me.TextBox5.Location = New System.Drawing.Point(726, 777)
         Me.TextBox5.Name = "TextBox5"
         Me.TextBox5.ReadOnly = True
         Me.TextBox5.Size = New System.Drawing.Size(135, 21)
@@ -294,7 +331,7 @@ Partial Class Form1
         '
         Me.TextBox6.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer))
         Me.TextBox6.Font = New System.Drawing.Font("Verdana", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox6.Location = New System.Drawing.Point(39, 304)
+        Me.TextBox6.Location = New System.Drawing.Point(39, 361)
         Me.TextBox6.Multiline = True
         Me.TextBox6.Name = "TextBox6"
         Me.TextBox6.Size = New System.Drawing.Size(174, 55)
@@ -306,7 +343,7 @@ Partial Class Form1
         '
         Me.TextBox8.BackColor = System.Drawing.SystemColors.InactiveCaption
         Me.TextBox8.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox8.Location = New System.Drawing.Point(671, 461)
+        Me.TextBox8.Location = New System.Drawing.Point(670, 518)
         Me.TextBox8.Multiline = True
         Me.TextBox8.Name = "TextBox8"
         Me.TextBox8.Size = New System.Drawing.Size(174, 42)
@@ -318,7 +355,7 @@ Partial Class Form1
         '
         Me.TextBox9.BackColor = System.Drawing.SystemColors.InactiveCaption
         Me.TextBox9.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox9.Location = New System.Drawing.Point(671, 413)
+        Me.TextBox9.Location = New System.Drawing.Point(671, 470)
         Me.TextBox9.Multiline = True
         Me.TextBox9.Name = "TextBox9"
         Me.TextBox9.Size = New System.Drawing.Size(174, 42)
@@ -330,7 +367,7 @@ Partial Class Form1
         '
         Me.TextBox10.BackColor = System.Drawing.SystemColors.InactiveCaption
         Me.TextBox10.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox10.Location = New System.Drawing.Point(671, 365)
+        Me.TextBox10.Location = New System.Drawing.Point(670, 422)
         Me.TextBox10.Multiline = True
         Me.TextBox10.Name = "TextBox10"
         Me.TextBox10.Size = New System.Drawing.Size(174, 42)
@@ -342,7 +379,7 @@ Partial Class Form1
         '
         Me.TextBox11.BackColor = System.Drawing.SystemColors.GradientInactiveCaption
         Me.TextBox11.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox11.Location = New System.Drawing.Point(39, 365)
+        Me.TextBox11.Location = New System.Drawing.Point(39, 422)
         Me.TextBox11.Multiline = True
         Me.TextBox11.Name = "TextBox11"
         Me.TextBox11.Size = New System.Drawing.Size(174, 42)
@@ -353,7 +390,7 @@ Partial Class Form1
         '
         Me.TextBox12.BackColor = System.Drawing.SystemColors.GradientInactiveCaption
         Me.TextBox12.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox12.Location = New System.Drawing.Point(39, 413)
+        Me.TextBox12.Location = New System.Drawing.Point(39, 470)
         Me.TextBox12.Multiline = True
         Me.TextBox12.Name = "TextBox12"
         Me.TextBox12.Size = New System.Drawing.Size(174, 42)
@@ -364,7 +401,7 @@ Partial Class Form1
         '
         Me.TextBox13.BackColor = System.Drawing.SystemColors.GradientInactiveCaption
         Me.TextBox13.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox13.Location = New System.Drawing.Point(39, 461)
+        Me.TextBox13.Location = New System.Drawing.Point(39, 518)
         Me.TextBox13.Multiline = True
         Me.TextBox13.Name = "TextBox13"
         Me.TextBox13.Size = New System.Drawing.Size(174, 42)
@@ -375,7 +412,7 @@ Partial Class Form1
         '
         Me.TextBox15.BackColor = System.Drawing.SystemColors.GradientInactiveCaption
         Me.TextBox15.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox15.Location = New System.Drawing.Point(39, 605)
+        Me.TextBox15.Location = New System.Drawing.Point(39, 662)
         Me.TextBox15.Multiline = True
         Me.TextBox15.Name = "TextBox15"
         Me.TextBox15.Size = New System.Drawing.Size(174, 42)
@@ -386,7 +423,7 @@ Partial Class Form1
         '
         Me.TextBox16.BackColor = System.Drawing.SystemColors.GradientInactiveCaption
         Me.TextBox16.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox16.Location = New System.Drawing.Point(39, 557)
+        Me.TextBox16.Location = New System.Drawing.Point(39, 614)
         Me.TextBox16.Multiline = True
         Me.TextBox16.Name = "TextBox16"
         Me.TextBox16.Size = New System.Drawing.Size(174, 42)
@@ -397,7 +434,7 @@ Partial Class Form1
         '
         Me.TextBox17.BackColor = System.Drawing.SystemColors.GradientInactiveCaption
         Me.TextBox17.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox17.Location = New System.Drawing.Point(39, 509)
+        Me.TextBox17.Location = New System.Drawing.Point(39, 566)
         Me.TextBox17.Multiline = True
         Me.TextBox17.Name = "TextBox17"
         Me.TextBox17.Size = New System.Drawing.Size(174, 42)
@@ -408,7 +445,7 @@ Partial Class Form1
         '
         Me.TextBox18.BackColor = System.Drawing.SystemColors.InactiveCaption
         Me.TextBox18.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox18.Location = New System.Drawing.Point(671, 605)
+        Me.TextBox18.Location = New System.Drawing.Point(670, 662)
         Me.TextBox18.Multiline = True
         Me.TextBox18.Name = "TextBox18"
         Me.TextBox18.Size = New System.Drawing.Size(174, 42)
@@ -420,7 +457,7 @@ Partial Class Form1
         '
         Me.TextBox19.BackColor = System.Drawing.SystemColors.InactiveCaption
         Me.TextBox19.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox19.Location = New System.Drawing.Point(671, 557)
+        Me.TextBox19.Location = New System.Drawing.Point(670, 614)
         Me.TextBox19.Multiline = True
         Me.TextBox19.Name = "TextBox19"
         Me.TextBox19.Size = New System.Drawing.Size(174, 42)
@@ -432,7 +469,7 @@ Partial Class Form1
         '
         Me.TextBox20.BackColor = System.Drawing.SystemColors.InactiveCaption
         Me.TextBox20.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox20.Location = New System.Drawing.Point(671, 509)
+        Me.TextBox20.Location = New System.Drawing.Point(670, 566)
         Me.TextBox20.Multiline = True
         Me.TextBox20.Name = "TextBox20"
         Me.TextBox20.Size = New System.Drawing.Size(174, 42)
@@ -513,7 +550,7 @@ Partial Class Form1
         Me.ComboBox7.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox7.FormattingEnabled = True
         Me.ComboBox7.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
-        Me.ComboBox7.Location = New System.Drawing.Point(214, 146)
+        Me.ComboBox7.Location = New System.Drawing.Point(214, 135)
         Me.ComboBox7.Name = "ComboBox7"
         Me.ComboBox7.Size = New System.Drawing.Size(71, 21)
         Me.ComboBox7.TabIndex = 125
@@ -524,7 +561,7 @@ Partial Class Form1
         Me.ComboBox8.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox8.FormattingEnabled = True
         Me.ComboBox8.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
-        Me.ComboBox8.Location = New System.Drawing.Point(291, 146)
+        Me.ComboBox8.Location = New System.Drawing.Point(290, 135)
         Me.ComboBox8.Name = "ComboBox8"
         Me.ComboBox8.Size = New System.Drawing.Size(71, 21)
         Me.ComboBox8.TabIndex = 126
@@ -535,7 +572,7 @@ Partial Class Form1
         Me.ComboBox9.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox9.FormattingEnabled = True
         Me.ComboBox9.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲", "X"})
-        Me.ComboBox9.Location = New System.Drawing.Point(368, 146)
+        Me.ComboBox9.Location = New System.Drawing.Point(368, 136)
         Me.ComboBox9.Name = "ComboBox9"
         Me.ComboBox9.Size = New System.Drawing.Size(71, 21)
         Me.ComboBox9.TabIndex = 127
@@ -546,7 +583,7 @@ Partial Class Form1
         Me.ComboBox10.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox10.FormattingEnabled = True
         Me.ComboBox10.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲", "X"})
-        Me.ComboBox10.Location = New System.Drawing.Point(445, 146)
+        Me.ComboBox10.Location = New System.Drawing.Point(445, 136)
         Me.ComboBox10.Name = "ComboBox10"
         Me.ComboBox10.Size = New System.Drawing.Size(71, 21)
         Me.ComboBox10.TabIndex = 128
@@ -557,7 +594,7 @@ Partial Class Form1
         Me.ComboBox11.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox11.FormattingEnabled = True
         Me.ComboBox11.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
-        Me.ComboBox11.Location = New System.Drawing.Point(522, 146)
+        Me.ComboBox11.Location = New System.Drawing.Point(522, 136)
         Me.ComboBox11.Name = "ComboBox11"
         Me.ComboBox11.Size = New System.Drawing.Size(71, 21)
         Me.ComboBox11.TabIndex = 129
@@ -568,10 +605,79 @@ Partial Class Form1
         Me.ComboBox12.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox12.FormattingEnabled = True
         Me.ComboBox12.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
-        Me.ComboBox12.Location = New System.Drawing.Point(599, 146)
+        Me.ComboBox12.Location = New System.Drawing.Point(599, 136)
         Me.ComboBox12.Name = "ComboBox12"
         Me.ComboBox12.Size = New System.Drawing.Size(71, 21)
         Me.ComboBox12.TabIndex = 130
+        '
+        'TextBox7
+        '
+        Me.TextBox7.BackColor = System.Drawing.SystemColors.GradientInactiveCaption
+        Me.TextBox7.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
+        Me.TextBox7.Location = New System.Drawing.Point(39, 217)
+        Me.TextBox7.Multiline = True
+        Me.TextBox7.Name = "TextBox7"
+        Me.TextBox7.Size = New System.Drawing.Size(174, 42)
+        Me.TextBox7.TabIndex = 179
+        Me.TextBox7.Text = "Player4"
+        '
+        'TextBox14
+        '
+        Me.TextBox14.BackColor = System.Drawing.SystemColors.InactiveCaption
+        Me.TextBox14.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox14.Location = New System.Drawing.Point(670, 217)
+        Me.TextBox14.Multiline = True
+        Me.TextBox14.Name = "TextBox14"
+        Me.TextBox14.Size = New System.Drawing.Size(174, 42)
+        Me.TextBox14.TabIndex = 180
+        Me.TextBox14.Text = "Player10"
+        Me.TextBox14.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
+        '
+        'TextBox21
+        '
+        Me.TextBox21.BackColor = System.Drawing.SystemColors.GradientInactiveCaption
+        Me.TextBox21.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox21.Location = New System.Drawing.Point(39, 265)
+        Me.TextBox21.Multiline = True
+        Me.TextBox21.Name = "TextBox21"
+        Me.TextBox21.Size = New System.Drawing.Size(174, 42)
+        Me.TextBox21.TabIndex = 181
+        Me.TextBox21.Text = "Player5"
+        '
+        'TextBox23
+        '
+        Me.TextBox23.BackColor = System.Drawing.SystemColors.InactiveCaption
+        Me.TextBox23.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
+        Me.TextBox23.Location = New System.Drawing.Point(670, 265)
+        Me.TextBox23.Multiline = True
+        Me.TextBox23.Name = "TextBox23"
+        Me.TextBox23.Size = New System.Drawing.Size(174, 42)
+        Me.TextBox23.TabIndex = 182
+        Me.TextBox23.Text = "Player11"
+        Me.TextBox23.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
+        '
+        'TextBox24
+        '
+        Me.TextBox24.BackColor = System.Drawing.SystemColors.GradientInactiveCaption
+        Me.TextBox24.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
+        Me.TextBox24.Location = New System.Drawing.Point(39, 313)
+        Me.TextBox24.Multiline = True
+        Me.TextBox24.Name = "TextBox24"
+        Me.TextBox24.Size = New System.Drawing.Size(174, 42)
+        Me.TextBox24.TabIndex = 183
+        Me.TextBox24.Text = "Player6"
+        '
+        'TextBox25
+        '
+        Me.TextBox25.BackColor = System.Drawing.SystemColors.InactiveCaption
+        Me.TextBox25.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox25.Location = New System.Drawing.Point(670, 313)
+        Me.TextBox25.Multiline = True
+        Me.TextBox25.Name = "TextBox25"
+        Me.TextBox25.Size = New System.Drawing.Size(174, 42)
+        Me.TextBox25.TabIndex = 184
+        Me.TextBox25.Text = "Player12"
+        Me.TextBox25.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'ComboBox13
         '
@@ -579,10 +685,10 @@ Partial Class Form1
         Me.ComboBox13.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox13.FormattingEnabled = True
         Me.ComboBox13.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
-        Me.ComboBox13.Location = New System.Drawing.Point(214, 208)
+        Me.ComboBox13.Location = New System.Drawing.Point(214, 179)
         Me.ComboBox13.Name = "ComboBox13"
         Me.ComboBox13.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox13.TabIndex = 131
+        Me.ComboBox13.TabIndex = 190
         '
         'ComboBox14
         '
@@ -590,10 +696,10 @@ Partial Class Form1
         Me.ComboBox14.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox14.FormattingEnabled = True
         Me.ComboBox14.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
-        Me.ComboBox14.Location = New System.Drawing.Point(291, 208)
+        Me.ComboBox14.Location = New System.Drawing.Point(290, 179)
         Me.ComboBox14.Name = "ComboBox14"
         Me.ComboBox14.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox14.TabIndex = 132
+        Me.ComboBox14.TabIndex = 189
         '
         'ComboBox15
         '
@@ -601,10 +707,10 @@ Partial Class Form1
         Me.ComboBox15.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox15.FormattingEnabled = True
         Me.ComboBox15.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲", "X"})
-        Me.ComboBox15.Location = New System.Drawing.Point(368, 208)
+        Me.ComboBox15.Location = New System.Drawing.Point(368, 179)
         Me.ComboBox15.Name = "ComboBox15"
         Me.ComboBox15.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox15.TabIndex = 133
+        Me.ComboBox15.TabIndex = 188
         '
         'ComboBox16
         '
@@ -612,10 +718,10 @@ Partial Class Form1
         Me.ComboBox16.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox16.FormattingEnabled = True
         Me.ComboBox16.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲", "X"})
-        Me.ComboBox16.Location = New System.Drawing.Point(445, 208)
+        Me.ComboBox16.Location = New System.Drawing.Point(445, 179)
         Me.ComboBox16.Name = "ComboBox16"
         Me.ComboBox16.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox16.TabIndex = 134
+        Me.ComboBox16.TabIndex = 187
         '
         'ComboBox17
         '
@@ -623,10 +729,10 @@ Partial Class Form1
         Me.ComboBox17.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox17.FormattingEnabled = True
         Me.ComboBox17.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
-        Me.ComboBox17.Location = New System.Drawing.Point(522, 208)
+        Me.ComboBox17.Location = New System.Drawing.Point(522, 179)
         Me.ComboBox17.Name = "ComboBox17"
         Me.ComboBox17.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox17.TabIndex = 135
+        Me.ComboBox17.TabIndex = 186
         '
         'ComboBox18
         '
@@ -634,10 +740,10 @@ Partial Class Form1
         Me.ComboBox18.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox18.FormattingEnabled = True
         Me.ComboBox18.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
-        Me.ComboBox18.Location = New System.Drawing.Point(599, 208)
+        Me.ComboBox18.Location = New System.Drawing.Point(599, 179)
         Me.ComboBox18.Name = "ComboBox18"
         Me.ComboBox18.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox18.TabIndex = 136
+        Me.ComboBox18.TabIndex = 185
         '
         'ComboBox19
         '
@@ -645,10 +751,10 @@ Partial Class Form1
         Me.ComboBox19.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox19.FormattingEnabled = True
         Me.ComboBox19.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
-        Me.ComboBox19.Location = New System.Drawing.Point(214, 375)
+        Me.ComboBox19.Location = New System.Drawing.Point(214, 227)
         Me.ComboBox19.Name = "ComboBox19"
         Me.ComboBox19.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox19.TabIndex = 137
+        Me.ComboBox19.TabIndex = 196
         '
         'ComboBox20
         '
@@ -656,10 +762,10 @@ Partial Class Form1
         Me.ComboBox20.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox20.FormattingEnabled = True
         Me.ComboBox20.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
-        Me.ComboBox20.Location = New System.Drawing.Point(291, 375)
+        Me.ComboBox20.Location = New System.Drawing.Point(290, 227)
         Me.ComboBox20.Name = "ComboBox20"
         Me.ComboBox20.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox20.TabIndex = 138
+        Me.ComboBox20.TabIndex = 195
         '
         'ComboBox21
         '
@@ -667,10 +773,10 @@ Partial Class Form1
         Me.ComboBox21.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox21.FormattingEnabled = True
         Me.ComboBox21.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲", "X"})
-        Me.ComboBox21.Location = New System.Drawing.Point(368, 375)
+        Me.ComboBox21.Location = New System.Drawing.Point(368, 227)
         Me.ComboBox21.Name = "ComboBox21"
         Me.ComboBox21.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox21.TabIndex = 139
+        Me.ComboBox21.TabIndex = 194
         '
         'ComboBox22
         '
@@ -678,10 +784,10 @@ Partial Class Form1
         Me.ComboBox22.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox22.FormattingEnabled = True
         Me.ComboBox22.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲", "X"})
-        Me.ComboBox22.Location = New System.Drawing.Point(445, 375)
+        Me.ComboBox22.Location = New System.Drawing.Point(445, 227)
         Me.ComboBox22.Name = "ComboBox22"
         Me.ComboBox22.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox22.TabIndex = 140
+        Me.ComboBox22.TabIndex = 193
         '
         'ComboBox23
         '
@@ -689,10 +795,10 @@ Partial Class Form1
         Me.ComboBox23.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox23.FormattingEnabled = True
         Me.ComboBox23.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
-        Me.ComboBox23.Location = New System.Drawing.Point(522, 375)
+        Me.ComboBox23.Location = New System.Drawing.Point(522, 227)
         Me.ComboBox23.Name = "ComboBox23"
         Me.ComboBox23.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox23.TabIndex = 141
+        Me.ComboBox23.TabIndex = 192
         '
         'ComboBox24
         '
@@ -700,10 +806,10 @@ Partial Class Form1
         Me.ComboBox24.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox24.FormattingEnabled = True
         Me.ComboBox24.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
-        Me.ComboBox24.Location = New System.Drawing.Point(599, 375)
+        Me.ComboBox24.Location = New System.Drawing.Point(599, 227)
         Me.ComboBox24.Name = "ComboBox24"
         Me.ComboBox24.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox24.TabIndex = 142
+        Me.ComboBox24.TabIndex = 191
         '
         'ComboBox25
         '
@@ -711,10 +817,10 @@ Partial Class Form1
         Me.ComboBox25.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox25.FormattingEnabled = True
         Me.ComboBox25.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
-        Me.ComboBox25.Location = New System.Drawing.Point(214, 424)
+        Me.ComboBox25.Location = New System.Drawing.Point(214, 276)
         Me.ComboBox25.Name = "ComboBox25"
         Me.ComboBox25.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox25.TabIndex = 143
+        Me.ComboBox25.TabIndex = 202
         '
         'ComboBox26
         '
@@ -722,10 +828,10 @@ Partial Class Form1
         Me.ComboBox26.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox26.FormattingEnabled = True
         Me.ComboBox26.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
-        Me.ComboBox26.Location = New System.Drawing.Point(291, 424)
+        Me.ComboBox26.Location = New System.Drawing.Point(290, 276)
         Me.ComboBox26.Name = "ComboBox26"
         Me.ComboBox26.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox26.TabIndex = 144
+        Me.ComboBox26.TabIndex = 201
         '
         'ComboBox27
         '
@@ -733,10 +839,10 @@ Partial Class Form1
         Me.ComboBox27.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox27.FormattingEnabled = True
         Me.ComboBox27.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲", "X"})
-        Me.ComboBox27.Location = New System.Drawing.Point(368, 424)
+        Me.ComboBox27.Location = New System.Drawing.Point(368, 276)
         Me.ComboBox27.Name = "ComboBox27"
         Me.ComboBox27.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox27.TabIndex = 145
+        Me.ComboBox27.TabIndex = 200
         '
         'ComboBox28
         '
@@ -744,10 +850,10 @@ Partial Class Form1
         Me.ComboBox28.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox28.FormattingEnabled = True
         Me.ComboBox28.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲", "X"})
-        Me.ComboBox28.Location = New System.Drawing.Point(445, 424)
+        Me.ComboBox28.Location = New System.Drawing.Point(445, 276)
         Me.ComboBox28.Name = "ComboBox28"
         Me.ComboBox28.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox28.TabIndex = 146
+        Me.ComboBox28.TabIndex = 199
         '
         'ComboBox29
         '
@@ -755,10 +861,10 @@ Partial Class Form1
         Me.ComboBox29.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox29.FormattingEnabled = True
         Me.ComboBox29.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
-        Me.ComboBox29.Location = New System.Drawing.Point(522, 424)
+        Me.ComboBox29.Location = New System.Drawing.Point(522, 276)
         Me.ComboBox29.Name = "ComboBox29"
         Me.ComboBox29.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox29.TabIndex = 147
+        Me.ComboBox29.TabIndex = 198
         '
         'ComboBox30
         '
@@ -766,10 +872,10 @@ Partial Class Form1
         Me.ComboBox30.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox30.FormattingEnabled = True
         Me.ComboBox30.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
-        Me.ComboBox30.Location = New System.Drawing.Point(599, 424)
+        Me.ComboBox30.Location = New System.Drawing.Point(599, 276)
         Me.ComboBox30.Name = "ComboBox30"
         Me.ComboBox30.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox30.TabIndex = 148
+        Me.ComboBox30.TabIndex = 197
         '
         'ComboBox31
         '
@@ -777,10 +883,10 @@ Partial Class Form1
         Me.ComboBox31.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox31.FormattingEnabled = True
         Me.ComboBox31.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
-        Me.ComboBox31.Location = New System.Drawing.Point(214, 472)
+        Me.ComboBox31.Location = New System.Drawing.Point(214, 323)
         Me.ComboBox31.Name = "ComboBox31"
         Me.ComboBox31.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox31.TabIndex = 149
+        Me.ComboBox31.TabIndex = 208
         '
         'ComboBox32
         '
@@ -788,10 +894,10 @@ Partial Class Form1
         Me.ComboBox32.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox32.FormattingEnabled = True
         Me.ComboBox32.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
-        Me.ComboBox32.Location = New System.Drawing.Point(291, 472)
+        Me.ComboBox32.Location = New System.Drawing.Point(290, 323)
         Me.ComboBox32.Name = "ComboBox32"
         Me.ComboBox32.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox32.TabIndex = 150
+        Me.ComboBox32.TabIndex = 207
         '
         'ComboBox33
         '
@@ -799,10 +905,10 @@ Partial Class Form1
         Me.ComboBox33.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox33.FormattingEnabled = True
         Me.ComboBox33.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲", "X"})
-        Me.ComboBox33.Location = New System.Drawing.Point(368, 472)
+        Me.ComboBox33.Location = New System.Drawing.Point(368, 323)
         Me.ComboBox33.Name = "ComboBox33"
         Me.ComboBox33.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox33.TabIndex = 151
+        Me.ComboBox33.TabIndex = 206
         '
         'ComboBox34
         '
@@ -810,10 +916,10 @@ Partial Class Form1
         Me.ComboBox34.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox34.FormattingEnabled = True
         Me.ComboBox34.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲", "X"})
-        Me.ComboBox34.Location = New System.Drawing.Point(445, 472)
+        Me.ComboBox34.Location = New System.Drawing.Point(445, 323)
         Me.ComboBox34.Name = "ComboBox34"
         Me.ComboBox34.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox34.TabIndex = 152
+        Me.ComboBox34.TabIndex = 205
         '
         'ComboBox35
         '
@@ -821,10 +927,10 @@ Partial Class Form1
         Me.ComboBox35.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox35.FormattingEnabled = True
         Me.ComboBox35.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
-        Me.ComboBox35.Location = New System.Drawing.Point(522, 472)
+        Me.ComboBox35.Location = New System.Drawing.Point(522, 323)
         Me.ComboBox35.Name = "ComboBox35"
         Me.ComboBox35.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox35.TabIndex = 153
+        Me.ComboBox35.TabIndex = 204
         '
         'ComboBox36
         '
@@ -832,10 +938,10 @@ Partial Class Form1
         Me.ComboBox36.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox36.FormattingEnabled = True
         Me.ComboBox36.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
-        Me.ComboBox36.Location = New System.Drawing.Point(599, 472)
+        Me.ComboBox36.Location = New System.Drawing.Point(599, 323)
         Me.ComboBox36.Name = "ComboBox36"
         Me.ComboBox36.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox36.TabIndex = 154
+        Me.ComboBox36.TabIndex = 203
         '
         'ComboBox37
         '
@@ -843,10 +949,10 @@ Partial Class Form1
         Me.ComboBox37.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox37.FormattingEnabled = True
         Me.ComboBox37.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
-        Me.ComboBox37.Location = New System.Drawing.Point(214, 520)
+        Me.ComboBox37.Location = New System.Drawing.Point(214, 433)
         Me.ComboBox37.Name = "ComboBox37"
         Me.ComboBox37.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox37.TabIndex = 155
+        Me.ComboBox37.TabIndex = 214
         '
         'ComboBox38
         '
@@ -854,10 +960,10 @@ Partial Class Form1
         Me.ComboBox38.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox38.FormattingEnabled = True
         Me.ComboBox38.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
-        Me.ComboBox38.Location = New System.Drawing.Point(291, 520)
+        Me.ComboBox38.Location = New System.Drawing.Point(290, 433)
         Me.ComboBox38.Name = "ComboBox38"
         Me.ComboBox38.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox38.TabIndex = 156
+        Me.ComboBox38.TabIndex = 213
         '
         'ComboBox39
         '
@@ -865,10 +971,10 @@ Partial Class Form1
         Me.ComboBox39.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox39.FormattingEnabled = True
         Me.ComboBox39.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲", "X"})
-        Me.ComboBox39.Location = New System.Drawing.Point(368, 520)
+        Me.ComboBox39.Location = New System.Drawing.Point(368, 433)
         Me.ComboBox39.Name = "ComboBox39"
         Me.ComboBox39.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox39.TabIndex = 157
+        Me.ComboBox39.TabIndex = 212
         '
         'ComboBox40
         '
@@ -876,10 +982,10 @@ Partial Class Form1
         Me.ComboBox40.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox40.FormattingEnabled = True
         Me.ComboBox40.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲", "X"})
-        Me.ComboBox40.Location = New System.Drawing.Point(445, 520)
+        Me.ComboBox40.Location = New System.Drawing.Point(445, 433)
         Me.ComboBox40.Name = "ComboBox40"
         Me.ComboBox40.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox40.TabIndex = 158
+        Me.ComboBox40.TabIndex = 211
         '
         'ComboBox41
         '
@@ -887,10 +993,10 @@ Partial Class Form1
         Me.ComboBox41.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox41.FormattingEnabled = True
         Me.ComboBox41.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
-        Me.ComboBox41.Location = New System.Drawing.Point(522, 520)
+        Me.ComboBox41.Location = New System.Drawing.Point(522, 433)
         Me.ComboBox41.Name = "ComboBox41"
         Me.ComboBox41.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox41.TabIndex = 159
+        Me.ComboBox41.TabIndex = 210
         '
         'ComboBox42
         '
@@ -898,10 +1004,10 @@ Partial Class Form1
         Me.ComboBox42.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox42.FormattingEnabled = True
         Me.ComboBox42.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
-        Me.ComboBox42.Location = New System.Drawing.Point(599, 520)
+        Me.ComboBox42.Location = New System.Drawing.Point(599, 433)
         Me.ComboBox42.Name = "ComboBox42"
         Me.ComboBox42.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox42.TabIndex = 160
+        Me.ComboBox42.TabIndex = 209
         '
         'ComboBox43
         '
@@ -909,10 +1015,10 @@ Partial Class Form1
         Me.ComboBox43.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox43.FormattingEnabled = True
         Me.ComboBox43.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
-        Me.ComboBox43.Location = New System.Drawing.Point(214, 568)
+        Me.ComboBox43.Location = New System.Drawing.Point(214, 481)
         Me.ComboBox43.Name = "ComboBox43"
         Me.ComboBox43.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox43.TabIndex = 161
+        Me.ComboBox43.TabIndex = 220
         '
         'ComboBox44
         '
@@ -920,10 +1026,10 @@ Partial Class Form1
         Me.ComboBox44.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox44.FormattingEnabled = True
         Me.ComboBox44.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
-        Me.ComboBox44.Location = New System.Drawing.Point(291, 568)
+        Me.ComboBox44.Location = New System.Drawing.Point(290, 481)
         Me.ComboBox44.Name = "ComboBox44"
         Me.ComboBox44.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox44.TabIndex = 162
+        Me.ComboBox44.TabIndex = 219
         '
         'ComboBox45
         '
@@ -931,10 +1037,10 @@ Partial Class Form1
         Me.ComboBox45.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox45.FormattingEnabled = True
         Me.ComboBox45.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲", "X"})
-        Me.ComboBox45.Location = New System.Drawing.Point(368, 568)
+        Me.ComboBox45.Location = New System.Drawing.Point(368, 481)
         Me.ComboBox45.Name = "ComboBox45"
         Me.ComboBox45.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox45.TabIndex = 163
+        Me.ComboBox45.TabIndex = 218
         '
         'ComboBox46
         '
@@ -942,10 +1048,10 @@ Partial Class Form1
         Me.ComboBox46.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox46.FormattingEnabled = True
         Me.ComboBox46.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲", "X"})
-        Me.ComboBox46.Location = New System.Drawing.Point(445, 568)
+        Me.ComboBox46.Location = New System.Drawing.Point(445, 481)
         Me.ComboBox46.Name = "ComboBox46"
         Me.ComboBox46.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox46.TabIndex = 164
+        Me.ComboBox46.TabIndex = 217
         '
         'ComboBox47
         '
@@ -953,10 +1059,10 @@ Partial Class Form1
         Me.ComboBox47.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox47.FormattingEnabled = True
         Me.ComboBox47.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
-        Me.ComboBox47.Location = New System.Drawing.Point(522, 568)
+        Me.ComboBox47.Location = New System.Drawing.Point(522, 481)
         Me.ComboBox47.Name = "ComboBox47"
         Me.ComboBox47.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox47.TabIndex = 165
+        Me.ComboBox47.TabIndex = 216
         '
         'ComboBox48
         '
@@ -964,10 +1070,10 @@ Partial Class Form1
         Me.ComboBox48.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox48.FormattingEnabled = True
         Me.ComboBox48.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
-        Me.ComboBox48.Location = New System.Drawing.Point(599, 568)
+        Me.ComboBox48.Location = New System.Drawing.Point(599, 481)
         Me.ComboBox48.Name = "ComboBox48"
         Me.ComboBox48.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox48.TabIndex = 166
+        Me.ComboBox48.TabIndex = 215
         '
         'ComboBox49
         '
@@ -975,10 +1081,10 @@ Partial Class Form1
         Me.ComboBox49.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox49.FormattingEnabled = True
         Me.ComboBox49.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
-        Me.ComboBox49.Location = New System.Drawing.Point(214, 616)
+        Me.ComboBox49.Location = New System.Drawing.Point(214, 528)
         Me.ComboBox49.Name = "ComboBox49"
         Me.ComboBox49.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox49.TabIndex = 167
+        Me.ComboBox49.TabIndex = 226
         '
         'ComboBox50
         '
@@ -986,10 +1092,10 @@ Partial Class Form1
         Me.ComboBox50.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox50.FormattingEnabled = True
         Me.ComboBox50.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
-        Me.ComboBox50.Location = New System.Drawing.Point(291, 616)
+        Me.ComboBox50.Location = New System.Drawing.Point(290, 528)
         Me.ComboBox50.Name = "ComboBox50"
         Me.ComboBox50.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox50.TabIndex = 168
+        Me.ComboBox50.TabIndex = 225
         '
         'ComboBox51
         '
@@ -997,10 +1103,10 @@ Partial Class Form1
         Me.ComboBox51.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox51.FormattingEnabled = True
         Me.ComboBox51.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲", "X"})
-        Me.ComboBox51.Location = New System.Drawing.Point(368, 616)
+        Me.ComboBox51.Location = New System.Drawing.Point(368, 528)
         Me.ComboBox51.Name = "ComboBox51"
         Me.ComboBox51.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox51.TabIndex = 169
+        Me.ComboBox51.TabIndex = 224
         '
         'ComboBox52
         '
@@ -1008,10 +1114,10 @@ Partial Class Form1
         Me.ComboBox52.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox52.FormattingEnabled = True
         Me.ComboBox52.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲", "X"})
-        Me.ComboBox52.Location = New System.Drawing.Point(445, 616)
+        Me.ComboBox52.Location = New System.Drawing.Point(445, 528)
         Me.ComboBox52.Name = "ComboBox52"
         Me.ComboBox52.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox52.TabIndex = 170
+        Me.ComboBox52.TabIndex = 223
         '
         'ComboBox53
         '
@@ -1019,10 +1125,10 @@ Partial Class Form1
         Me.ComboBox53.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox53.FormattingEnabled = True
         Me.ComboBox53.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
-        Me.ComboBox53.Location = New System.Drawing.Point(522, 616)
+        Me.ComboBox53.Location = New System.Drawing.Point(522, 528)
         Me.ComboBox53.Name = "ComboBox53"
         Me.ComboBox53.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox53.TabIndex = 171
+        Me.ComboBox53.TabIndex = 222
         '
         'ComboBox54
         '
@@ -1030,10 +1136,10 @@ Partial Class Form1
         Me.ComboBox54.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox54.FormattingEnabled = True
         Me.ComboBox54.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
-        Me.ComboBox54.Location = New System.Drawing.Point(599, 616)
+        Me.ComboBox54.Location = New System.Drawing.Point(599, 528)
         Me.ComboBox54.Name = "ComboBox54"
         Me.ComboBox54.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox54.TabIndex = 172
+        Me.ComboBox54.TabIndex = 221
         '
         'ComboBox55
         '
@@ -1041,10 +1147,10 @@ Partial Class Form1
         Me.ComboBox55.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox55.FormattingEnabled = True
         Me.ComboBox55.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
-        Me.ComboBox55.Location = New System.Drawing.Point(214, 717)
+        Me.ComboBox55.Location = New System.Drawing.Point(214, 577)
         Me.ComboBox55.Name = "ComboBox55"
         Me.ComboBox55.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox55.TabIndex = 173
+        Me.ComboBox55.TabIndex = 232
         '
         'ComboBox56
         '
@@ -1052,32 +1158,32 @@ Partial Class Form1
         Me.ComboBox56.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox56.FormattingEnabled = True
         Me.ComboBox56.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
-        Me.ComboBox56.Location = New System.Drawing.Point(291, 717)
+        Me.ComboBox56.Location = New System.Drawing.Point(290, 577)
         Me.ComboBox56.Name = "ComboBox56"
         Me.ComboBox56.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox56.TabIndex = 174
+        Me.ComboBox56.TabIndex = 231
         '
         'ComboBox57
         '
         Me.ComboBox57.BackColor = System.Drawing.SystemColors.ScrollBar
         Me.ComboBox57.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox57.FormattingEnabled = True
-        Me.ComboBox57.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
-        Me.ComboBox57.Location = New System.Drawing.Point(368, 717)
+        Me.ComboBox57.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲", "X"})
+        Me.ComboBox57.Location = New System.Drawing.Point(368, 577)
         Me.ComboBox57.Name = "ComboBox57"
         Me.ComboBox57.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox57.TabIndex = 175
+        Me.ComboBox57.TabIndex = 230
         '
         'ComboBox58
         '
         Me.ComboBox58.BackColor = System.Drawing.SystemColors.ScrollBar
         Me.ComboBox58.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox58.FormattingEnabled = True
-        Me.ComboBox58.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
-        Me.ComboBox58.Location = New System.Drawing.Point(445, 717)
+        Me.ComboBox58.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲", "X"})
+        Me.ComboBox58.Location = New System.Drawing.Point(445, 577)
         Me.ComboBox58.Name = "ComboBox58"
         Me.ComboBox58.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox58.TabIndex = 176
+        Me.ComboBox58.TabIndex = 229
         '
         'ComboBox59
         '
@@ -1085,10 +1191,10 @@ Partial Class Form1
         Me.ComboBox59.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox59.FormattingEnabled = True
         Me.ComboBox59.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
-        Me.ComboBox59.Location = New System.Drawing.Point(522, 717)
+        Me.ComboBox59.Location = New System.Drawing.Point(522, 577)
         Me.ComboBox59.Name = "ComboBox59"
         Me.ComboBox59.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox59.TabIndex = 177
+        Me.ComboBox59.TabIndex = 228
         '
         'ComboBox60
         '
@@ -1096,65 +1202,407 @@ Partial Class Form1
         Me.ComboBox60.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox60.FormattingEnabled = True
         Me.ComboBox60.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
-        Me.ComboBox60.Location = New System.Drawing.Point(599, 717)
+        Me.ComboBox60.Location = New System.Drawing.Point(599, 577)
         Me.ComboBox60.Name = "ComboBox60"
         Me.ComboBox60.Size = New System.Drawing.Size(71, 21)
-        Me.ComboBox60.TabIndex = 178
+        Me.ComboBox60.TabIndex = 227
+        '
+        'ComboBox61
+        '
+        Me.ComboBox61.BackColor = System.Drawing.SystemColors.ScrollBar
+        Me.ComboBox61.ForeColor = System.Drawing.SystemColors.WindowText
+        Me.ComboBox61.FormattingEnabled = True
+        Me.ComboBox61.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
+        Me.ComboBox61.Location = New System.Drawing.Point(214, 625)
+        Me.ComboBox61.Name = "ComboBox61"
+        Me.ComboBox61.Size = New System.Drawing.Size(71, 21)
+        Me.ComboBox61.TabIndex = 238
+        '
+        'ComboBox62
+        '
+        Me.ComboBox62.BackColor = System.Drawing.SystemColors.ScrollBar
+        Me.ComboBox62.ForeColor = System.Drawing.SystemColors.WindowText
+        Me.ComboBox62.FormattingEnabled = True
+        Me.ComboBox62.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
+        Me.ComboBox62.Location = New System.Drawing.Point(290, 625)
+        Me.ComboBox62.Name = "ComboBox62"
+        Me.ComboBox62.Size = New System.Drawing.Size(71, 21)
+        Me.ComboBox62.TabIndex = 237
+        '
+        'ComboBox63
+        '
+        Me.ComboBox63.BackColor = System.Drawing.SystemColors.ScrollBar
+        Me.ComboBox63.ForeColor = System.Drawing.SystemColors.WindowText
+        Me.ComboBox63.FormattingEnabled = True
+        Me.ComboBox63.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲", "X"})
+        Me.ComboBox63.Location = New System.Drawing.Point(368, 625)
+        Me.ComboBox63.Name = "ComboBox63"
+        Me.ComboBox63.Size = New System.Drawing.Size(71, 21)
+        Me.ComboBox63.TabIndex = 236
+        '
+        'ComboBox64
+        '
+        Me.ComboBox64.BackColor = System.Drawing.SystemColors.ScrollBar
+        Me.ComboBox64.ForeColor = System.Drawing.SystemColors.WindowText
+        Me.ComboBox64.FormattingEnabled = True
+        Me.ComboBox64.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲", "X"})
+        Me.ComboBox64.Location = New System.Drawing.Point(445, 625)
+        Me.ComboBox64.Name = "ComboBox64"
+        Me.ComboBox64.Size = New System.Drawing.Size(71, 21)
+        Me.ComboBox64.TabIndex = 235
+        '
+        'ComboBox65
+        '
+        Me.ComboBox65.BackColor = System.Drawing.SystemColors.ScrollBar
+        Me.ComboBox65.ForeColor = System.Drawing.SystemColors.WindowText
+        Me.ComboBox65.FormattingEnabled = True
+        Me.ComboBox65.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
+        Me.ComboBox65.Location = New System.Drawing.Point(522, 625)
+        Me.ComboBox65.Name = "ComboBox65"
+        Me.ComboBox65.Size = New System.Drawing.Size(71, 21)
+        Me.ComboBox65.TabIndex = 234
+        '
+        'ComboBox66
+        '
+        Me.ComboBox66.BackColor = System.Drawing.SystemColors.ScrollBar
+        Me.ComboBox66.ForeColor = System.Drawing.SystemColors.WindowText
+        Me.ComboBox66.FormattingEnabled = True
+        Me.ComboBox66.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
+        Me.ComboBox66.Location = New System.Drawing.Point(599, 625)
+        Me.ComboBox66.Name = "ComboBox66"
+        Me.ComboBox66.Size = New System.Drawing.Size(71, 21)
+        Me.ComboBox66.TabIndex = 233
+        '
+        'ComboBox67
+        '
+        Me.ComboBox67.BackColor = System.Drawing.SystemColors.ScrollBar
+        Me.ComboBox67.ForeColor = System.Drawing.SystemColors.WindowText
+        Me.ComboBox67.FormattingEnabled = True
+        Me.ComboBox67.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
+        Me.ComboBox67.Location = New System.Drawing.Point(214, 673)
+        Me.ComboBox67.Name = "ComboBox67"
+        Me.ComboBox67.Size = New System.Drawing.Size(71, 21)
+        Me.ComboBox67.TabIndex = 244
+        '
+        'ComboBox68
+        '
+        Me.ComboBox68.BackColor = System.Drawing.SystemColors.ScrollBar
+        Me.ComboBox68.ForeColor = System.Drawing.SystemColors.WindowText
+        Me.ComboBox68.FormattingEnabled = True
+        Me.ComboBox68.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
+        Me.ComboBox68.Location = New System.Drawing.Point(290, 673)
+        Me.ComboBox68.Name = "ComboBox68"
+        Me.ComboBox68.Size = New System.Drawing.Size(71, 21)
+        Me.ComboBox68.TabIndex = 243
+        '
+        'ComboBox69
+        '
+        Me.ComboBox69.BackColor = System.Drawing.SystemColors.ScrollBar
+        Me.ComboBox69.ForeColor = System.Drawing.SystemColors.WindowText
+        Me.ComboBox69.FormattingEnabled = True
+        Me.ComboBox69.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲", "X"})
+        Me.ComboBox69.Location = New System.Drawing.Point(368, 673)
+        Me.ComboBox69.Name = "ComboBox69"
+        Me.ComboBox69.Size = New System.Drawing.Size(71, 21)
+        Me.ComboBox69.TabIndex = 242
+        '
+        'ComboBox70
+        '
+        Me.ComboBox70.BackColor = System.Drawing.SystemColors.ScrollBar
+        Me.ComboBox70.ForeColor = System.Drawing.SystemColors.WindowText
+        Me.ComboBox70.FormattingEnabled = True
+        Me.ComboBox70.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲", "X"})
+        Me.ComboBox70.Location = New System.Drawing.Point(445, 673)
+        Me.ComboBox70.Name = "ComboBox70"
+        Me.ComboBox70.Size = New System.Drawing.Size(71, 21)
+        Me.ComboBox70.TabIndex = 241
+        '
+        'ComboBox71
+        '
+        Me.ComboBox71.BackColor = System.Drawing.SystemColors.ScrollBar
+        Me.ComboBox71.ForeColor = System.Drawing.SystemColors.WindowText
+        Me.ComboBox71.FormattingEnabled = True
+        Me.ComboBox71.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
+        Me.ComboBox71.Location = New System.Drawing.Point(522, 673)
+        Me.ComboBox71.Name = "ComboBox71"
+        Me.ComboBox71.Size = New System.Drawing.Size(71, 21)
+        Me.ComboBox71.TabIndex = 240
+        '
+        'ComboBox72
+        '
+        Me.ComboBox72.BackColor = System.Drawing.SystemColors.ScrollBar
+        Me.ComboBox72.ForeColor = System.Drawing.SystemColors.WindowText
+        Me.ComboBox72.FormattingEnabled = True
+        Me.ComboBox72.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
+        Me.ComboBox72.Location = New System.Drawing.Point(599, 673)
+        Me.ComboBox72.Name = "ComboBox72"
+        Me.ComboBox72.Size = New System.Drawing.Size(71, 21)
+        Me.ComboBox72.TabIndex = 239
+        '
+        'ComboBox73
+        '
+        Me.ComboBox73.BackColor = System.Drawing.SystemColors.ScrollBar
+        Me.ComboBox73.ForeColor = System.Drawing.SystemColors.WindowText
+        Me.ComboBox73.FormattingEnabled = True
+        Me.ComboBox73.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
+        Me.ComboBox73.Location = New System.Drawing.Point(214, 720)
+        Me.ComboBox73.Name = "ComboBox73"
+        Me.ComboBox73.Size = New System.Drawing.Size(71, 21)
+        Me.ComboBox73.TabIndex = 250
+        '
+        'ComboBox74
+        '
+        Me.ComboBox74.BackColor = System.Drawing.SystemColors.ScrollBar
+        Me.ComboBox74.ForeColor = System.Drawing.SystemColors.WindowText
+        Me.ComboBox74.FormattingEnabled = True
+        Me.ComboBox74.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
+        Me.ComboBox74.Location = New System.Drawing.Point(290, 720)
+        Me.ComboBox74.Name = "ComboBox74"
+        Me.ComboBox74.Size = New System.Drawing.Size(71, 21)
+        Me.ComboBox74.TabIndex = 249
+        '
+        'ComboBox75
+        '
+        Me.ComboBox75.BackColor = System.Drawing.SystemColors.ScrollBar
+        Me.ComboBox75.ForeColor = System.Drawing.SystemColors.WindowText
+        Me.ComboBox75.FormattingEnabled = True
+        Me.ComboBox75.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲", "X"})
+        Me.ComboBox75.Location = New System.Drawing.Point(368, 720)
+        Me.ComboBox75.Name = "ComboBox75"
+        Me.ComboBox75.Size = New System.Drawing.Size(71, 21)
+        Me.ComboBox75.TabIndex = 248
+        '
+        'ComboBox76
+        '
+        Me.ComboBox76.BackColor = System.Drawing.SystemColors.ScrollBar
+        Me.ComboBox76.ForeColor = System.Drawing.SystemColors.WindowText
+        Me.ComboBox76.FormattingEnabled = True
+        Me.ComboBox76.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲", "X"})
+        Me.ComboBox76.Location = New System.Drawing.Point(445, 720)
+        Me.ComboBox76.Name = "ComboBox76"
+        Me.ComboBox76.Size = New System.Drawing.Size(71, 21)
+        Me.ComboBox76.TabIndex = 247
+        '
+        'ComboBox77
+        '
+        Me.ComboBox77.BackColor = System.Drawing.SystemColors.ScrollBar
+        Me.ComboBox77.ForeColor = System.Drawing.SystemColors.WindowText
+        Me.ComboBox77.FormattingEnabled = True
+        Me.ComboBox77.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
+        Me.ComboBox77.Location = New System.Drawing.Point(522, 720)
+        Me.ComboBox77.Name = "ComboBox77"
+        Me.ComboBox77.Size = New System.Drawing.Size(71, 21)
+        Me.ComboBox77.TabIndex = 246
+        '
+        'ComboBox78
+        '
+        Me.ComboBox78.BackColor = System.Drawing.SystemColors.ScrollBar
+        Me.ComboBox78.ForeColor = System.Drawing.SystemColors.WindowText
+        Me.ComboBox78.FormattingEnabled = True
+        Me.ComboBox78.Items.AddRange(New Object() {"M", "K", "D", "T", "I", "▲"})
+        Me.ComboBox78.Location = New System.Drawing.Point(599, 720)
+        Me.ComboBox78.Name = "ComboBox78"
+        Me.ComboBox78.Size = New System.Drawing.Size(71, 21)
+        Me.ComboBox78.TabIndex = 245
+        '
+        'Button3
+        '
+        Me.Button3.Location = New System.Drawing.Point(851, 227)
+        Me.Button3.Name = "Button3"
+        Me.Button3.Size = New System.Drawing.Size(75, 23)
+        Me.Button3.TabIndex = 251
+        Me.Button3.Text = "Show"
+        Me.Button3.UseVisualStyleBackColor = True
+        '
+        'Button4
+        '
+        Me.Button4.Location = New System.Drawing.Point(932, 227)
+        Me.Button4.Name = "Button4"
+        Me.Button4.Size = New System.Drawing.Size(75, 23)
+        Me.Button4.TabIndex = 252
+        Me.Button4.Text = "Hide"
+        Me.Button4.UseVisualStyleBackColor = True
+        '
+        'Button5
+        '
+        Me.Button5.Location = New System.Drawing.Point(850, 274)
+        Me.Button5.Name = "Button5"
+        Me.Button5.Size = New System.Drawing.Size(75, 23)
+        Me.Button5.TabIndex = 253
+        Me.Button5.Text = "Show"
+        Me.Button5.UseVisualStyleBackColor = True
+        '
+        'Button6
+        '
+        Me.Button6.Location = New System.Drawing.Point(932, 274)
+        Me.Button6.Name = "Button6"
+        Me.Button6.Size = New System.Drawing.Size(75, 23)
+        Me.Button6.TabIndex = 254
+        Me.Button6.Text = "Hide"
+        Me.Button6.UseVisualStyleBackColor = True
+        '
+        'Button7
+        '
+        Me.Button7.Location = New System.Drawing.Point(850, 321)
+        Me.Button7.Name = "Button7"
+        Me.Button7.Size = New System.Drawing.Size(75, 23)
+        Me.Button7.TabIndex = 255
+        Me.Button7.Text = "Show"
+        Me.Button7.UseVisualStyleBackColor = True
+        '
+        'Button8
+        '
+        Me.Button8.Location = New System.Drawing.Point(932, 321)
+        Me.Button8.Name = "Button8"
+        Me.Button8.Size = New System.Drawing.Size(75, 23)
+        Me.Button8.TabIndex = 256
+        Me.Button8.Text = "Hide"
+        Me.Button8.UseVisualStyleBackColor = True
+        '
+        'Button9
+        '
+        Me.Button9.Location = New System.Drawing.Point(850, 575)
+        Me.Button9.Name = "Button9"
+        Me.Button9.Size = New System.Drawing.Size(75, 23)
+        Me.Button9.TabIndex = 257
+        Me.Button9.Text = "Show"
+        Me.Button9.UseVisualStyleBackColor = True
+        '
+        'Button10
+        '
+        Me.Button10.Location = New System.Drawing.Point(931, 575)
+        Me.Button10.Name = "Button10"
+        Me.Button10.Size = New System.Drawing.Size(75, 23)
+        Me.Button10.TabIndex = 258
+        Me.Button10.Text = "Hide"
+        Me.Button10.UseVisualStyleBackColor = True
+        '
+        'Button11
+        '
+        Me.Button11.Location = New System.Drawing.Point(850, 623)
+        Me.Button11.Name = "Button11"
+        Me.Button11.Size = New System.Drawing.Size(75, 23)
+        Me.Button11.TabIndex = 259
+        Me.Button11.Text = "Show"
+        Me.Button11.UseVisualStyleBackColor = True
+        '
+        'Button12
+        '
+        Me.Button12.Location = New System.Drawing.Point(931, 623)
+        Me.Button12.Name = "Button12"
+        Me.Button12.Size = New System.Drawing.Size(75, 23)
+        Me.Button12.TabIndex = 260
+        Me.Button12.Text = "Hide"
+        Me.Button12.UseVisualStyleBackColor = True
+        '
+        'Button13
+        '
+        Me.Button13.Location = New System.Drawing.Point(850, 671)
+        Me.Button13.Name = "Button13"
+        Me.Button13.Size = New System.Drawing.Size(75, 23)
+        Me.Button13.TabIndex = 261
+        Me.Button13.Text = "Show"
+        Me.Button13.UseVisualStyleBackColor = True
+        '
+        'Button14
+        '
+        Me.Button14.Location = New System.Drawing.Point(931, 671)
+        Me.Button14.Name = "Button14"
+        Me.Button14.Size = New System.Drawing.Size(75, 23)
+        Me.Button14.TabIndex = 262
+        Me.Button14.Text = "Hide"
+        Me.Button14.UseVisualStyleBackColor = True
         '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.Window
-        Me.ClientSize = New System.Drawing.Size(889, 817)
-        Me.Controls.Add(Me.ComboBox60)
-        Me.Controls.Add(Me.ComboBox59)
-        Me.Controls.Add(Me.ComboBox58)
-        Me.Controls.Add(Me.ComboBox57)
-        Me.Controls.Add(Me.ComboBox56)
+        Me.ClientSize = New System.Drawing.Size(1015, 803)
+        Me.Controls.Add(Me.Button14)
+        Me.Controls.Add(Me.Button13)
+        Me.Controls.Add(Me.Button12)
+        Me.Controls.Add(Me.Button11)
+        Me.Controls.Add(Me.Button10)
+        Me.Controls.Add(Me.Button9)
+        Me.Controls.Add(Me.Button8)
+        Me.Controls.Add(Me.Button7)
+        Me.Controls.Add(Me.Button6)
+        Me.Controls.Add(Me.Button5)
+        Me.Controls.Add(Me.Button4)
+        Me.Controls.Add(Me.Button3)
+        Me.Controls.Add(Me.ComboBox73)
+        Me.Controls.Add(Me.ComboBox74)
+        Me.Controls.Add(Me.ComboBox75)
+        Me.Controls.Add(Me.ComboBox76)
+        Me.Controls.Add(Me.ComboBox77)
+        Me.Controls.Add(Me.ComboBox78)
+        Me.Controls.Add(Me.ComboBox67)
+        Me.Controls.Add(Me.ComboBox68)
+        Me.Controls.Add(Me.ComboBox69)
+        Me.Controls.Add(Me.ComboBox70)
+        Me.Controls.Add(Me.ComboBox71)
+        Me.Controls.Add(Me.ComboBox72)
+        Me.Controls.Add(Me.ComboBox61)
+        Me.Controls.Add(Me.ComboBox62)
+        Me.Controls.Add(Me.ComboBox63)
+        Me.Controls.Add(Me.ComboBox64)
+        Me.Controls.Add(Me.ComboBox65)
+        Me.Controls.Add(Me.ComboBox66)
         Me.Controls.Add(Me.ComboBox55)
-        Me.Controls.Add(Me.ComboBox54)
-        Me.Controls.Add(Me.ComboBox53)
-        Me.Controls.Add(Me.ComboBox52)
-        Me.Controls.Add(Me.ComboBox51)
-        Me.Controls.Add(Me.ComboBox50)
+        Me.Controls.Add(Me.ComboBox56)
+        Me.Controls.Add(Me.ComboBox57)
+        Me.Controls.Add(Me.ComboBox58)
+        Me.Controls.Add(Me.ComboBox59)
+        Me.Controls.Add(Me.ComboBox60)
         Me.Controls.Add(Me.ComboBox49)
-        Me.Controls.Add(Me.ComboBox48)
-        Me.Controls.Add(Me.ComboBox47)
-        Me.Controls.Add(Me.ComboBox46)
-        Me.Controls.Add(Me.ComboBox45)
-        Me.Controls.Add(Me.ComboBox44)
+        Me.Controls.Add(Me.ComboBox50)
+        Me.Controls.Add(Me.ComboBox51)
+        Me.Controls.Add(Me.ComboBox52)
+        Me.Controls.Add(Me.ComboBox53)
+        Me.Controls.Add(Me.ComboBox54)
         Me.Controls.Add(Me.ComboBox43)
-        Me.Controls.Add(Me.ComboBox42)
-        Me.Controls.Add(Me.ComboBox41)
-        Me.Controls.Add(Me.ComboBox40)
-        Me.Controls.Add(Me.ComboBox39)
-        Me.Controls.Add(Me.ComboBox38)
+        Me.Controls.Add(Me.ComboBox44)
+        Me.Controls.Add(Me.ComboBox45)
+        Me.Controls.Add(Me.ComboBox46)
+        Me.Controls.Add(Me.ComboBox47)
+        Me.Controls.Add(Me.ComboBox48)
         Me.Controls.Add(Me.ComboBox37)
-        Me.Controls.Add(Me.ComboBox36)
-        Me.Controls.Add(Me.ComboBox35)
-        Me.Controls.Add(Me.ComboBox34)
-        Me.Controls.Add(Me.ComboBox33)
-        Me.Controls.Add(Me.ComboBox32)
+        Me.Controls.Add(Me.ComboBox38)
+        Me.Controls.Add(Me.ComboBox39)
+        Me.Controls.Add(Me.ComboBox40)
+        Me.Controls.Add(Me.ComboBox41)
+        Me.Controls.Add(Me.ComboBox42)
         Me.Controls.Add(Me.ComboBox31)
-        Me.Controls.Add(Me.ComboBox30)
-        Me.Controls.Add(Me.ComboBox29)
-        Me.Controls.Add(Me.ComboBox28)
-        Me.Controls.Add(Me.ComboBox27)
-        Me.Controls.Add(Me.ComboBox26)
+        Me.Controls.Add(Me.ComboBox32)
+        Me.Controls.Add(Me.ComboBox33)
+        Me.Controls.Add(Me.ComboBox34)
+        Me.Controls.Add(Me.ComboBox35)
+        Me.Controls.Add(Me.ComboBox36)
         Me.Controls.Add(Me.ComboBox25)
-        Me.Controls.Add(Me.ComboBox24)
-        Me.Controls.Add(Me.ComboBox23)
-        Me.Controls.Add(Me.ComboBox22)
-        Me.Controls.Add(Me.ComboBox21)
-        Me.Controls.Add(Me.ComboBox20)
+        Me.Controls.Add(Me.ComboBox26)
+        Me.Controls.Add(Me.ComboBox27)
+        Me.Controls.Add(Me.ComboBox28)
+        Me.Controls.Add(Me.ComboBox29)
+        Me.Controls.Add(Me.ComboBox30)
         Me.Controls.Add(Me.ComboBox19)
-        Me.Controls.Add(Me.ComboBox18)
-        Me.Controls.Add(Me.ComboBox17)
-        Me.Controls.Add(Me.ComboBox16)
-        Me.Controls.Add(Me.ComboBox15)
-        Me.Controls.Add(Me.ComboBox14)
+        Me.Controls.Add(Me.ComboBox20)
+        Me.Controls.Add(Me.ComboBox21)
+        Me.Controls.Add(Me.ComboBox22)
+        Me.Controls.Add(Me.ComboBox23)
+        Me.Controls.Add(Me.ComboBox24)
         Me.Controls.Add(Me.ComboBox13)
+        Me.Controls.Add(Me.ComboBox14)
+        Me.Controls.Add(Me.ComboBox15)
+        Me.Controls.Add(Me.ComboBox16)
+        Me.Controls.Add(Me.ComboBox17)
+        Me.Controls.Add(Me.ComboBox18)
+        Me.Controls.Add(Me.TextBox25)
+        Me.Controls.Add(Me.TextBox24)
+        Me.Controls.Add(Me.TextBox23)
+        Me.Controls.Add(Me.TextBox21)
+        Me.Controls.Add(Me.TextBox14)
+        Me.Controls.Add(Me.TextBox7)
         Me.Controls.Add(Me.ComboBox12)
         Me.Controls.Add(Me.ComboBox11)
         Me.Controls.Add(Me.ComboBox10)
@@ -1244,6 +1692,12 @@ Partial Class Form1
     Friend WithEvents ComboBox10 As ComboBox
     Friend WithEvents ComboBox11 As ComboBox
     Friend WithEvents ComboBox12 As ComboBox
+    Friend WithEvents TextBox7 As TextBox
+    Friend WithEvents TextBox14 As TextBox
+    Friend WithEvents TextBox21 As TextBox
+    Friend WithEvents TextBox23 As TextBox
+    Friend WithEvents TextBox24 As TextBox
+    Friend WithEvents TextBox25 As TextBox
     Friend WithEvents ComboBox13 As ComboBox
     Friend WithEvents ComboBox14 As ComboBox
     Friend WithEvents ComboBox15 As ComboBox
@@ -1292,4 +1746,34 @@ Partial Class Form1
     Friend WithEvents ComboBox58 As ComboBox
     Friend WithEvents ComboBox59 As ComboBox
     Friend WithEvents ComboBox60 As ComboBox
+    Friend WithEvents ComboBox61 As ComboBox
+    Friend WithEvents ComboBox62 As ComboBox
+    Friend WithEvents ComboBox63 As ComboBox
+    Friend WithEvents ComboBox64 As ComboBox
+    Friend WithEvents ComboBox65 As ComboBox
+    Friend WithEvents ComboBox66 As ComboBox
+    Friend WithEvents ComboBox67 As ComboBox
+    Friend WithEvents ComboBox68 As ComboBox
+    Friend WithEvents ComboBox69 As ComboBox
+    Friend WithEvents ComboBox70 As ComboBox
+    Friend WithEvents ComboBox71 As ComboBox
+    Friend WithEvents ComboBox72 As ComboBox
+    Friend WithEvents ComboBox73 As ComboBox
+    Friend WithEvents ComboBox74 As ComboBox
+    Friend WithEvents ComboBox75 As ComboBox
+    Friend WithEvents ComboBox76 As ComboBox
+    Friend WithEvents ComboBox77 As ComboBox
+    Friend WithEvents ComboBox78 As ComboBox
+    Friend WithEvents Button3 As Button
+    Friend WithEvents Button4 As Button
+    Friend WithEvents Button5 As Button
+    Friend WithEvents Button6 As Button
+    Friend WithEvents Button7 As Button
+    Friend WithEvents Button8 As Button
+    Friend WithEvents Button9 As Button
+    Friend WithEvents Button10 As Button
+    Friend WithEvents Button11 As Button
+    Friend WithEvents Button12 As Button
+    Friend WithEvents Button13 As Button
+    Friend WithEvents Button14 As Button
 End Class
