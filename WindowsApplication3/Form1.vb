@@ -1,5 +1,11 @@
 ﻿Public Class Form1
     Dim rs As New InputResizer
+    Dim TLine4 As Integer = 1
+    Dim TLine5 As Integer = 1
+    Dim TLine6 As Integer = 1
+    Dim BLine4 As Integer = 1
+    Dim BLine5 As Integer = 1
+    Dim BLine6 As Integer = 1
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         rs.FindAllControls(Me)
     End Sub
@@ -133,50 +139,63 @@
         Form2.Label22.Show()
         Form2.Label23.Show()
         Form2.Label24.Show()
+        TLine4 = 1
     End Sub
 
     Private Sub Button5_Click(sender As Object, e As EventArgs) Handles Button5.Click
-        Form2.TextBox21.Show()
-        Form2.TextBox29.Show()
-        Form2.Label25.Show()
-        Form2.Label26.Show()
-        Form2.Label27.Show()
-        Form2.Label28.Show()
-        Form2.Label29.Show()
-        Form2.Label30.Show()
+        If TLine4 = 1 Then
+            Form2.TextBox21.Show()
+            Form2.TextBox29.Show()
+            Form2.Label25.Show()
+            Form2.Label26.Show()
+            Form2.Label27.Show()
+            Form2.Label28.Show()
+            Form2.Label29.Show()
+            Form2.Label30.Show()
+            TLine5 = 1
+        End If
     End Sub
 
     Private Sub Button7_Click(sender As Object, e As EventArgs) Handles Button7.Click
-        Form2.TextBox30.Show()
-        Form2.TextBox37.Show()
-        Form2.Label31.Show()
-        Form2.Label32.Show()
-        Form2.Label33.Show()
-        Form2.Label34.Show()
-        Form2.Label35.Show()
-        Form2.Label36.Show()
+        If TLine5 = 1 Then
+            Form2.TextBox30.Show()
+            Form2.TextBox37.Show()
+            Form2.Label31.Show()
+            Form2.Label32.Show()
+            Form2.Label33.Show()
+            Form2.Label34.Show()
+            Form2.Label35.Show()
+            Form2.Label36.Show()
+            TLine6 = 1
+        End If
     End Sub
 
     Private Sub Button4_Click(sender As Object, e As EventArgs) Handles Button4.Click
-        Form2.TextBox4.Hide()
-        Form2.TextBox20.Hide()
-        Form2.Label19.Hide()
-        Form2.Label20.Hide()
-        Form2.Label21.Hide()
-        Form2.Label22.Hide()
-        Form2.Label23.Hide()
-        Form2.Label24.Hide()
+        If TLine5 = 0 Then
+            Form2.TextBox4.Hide()
+            Form2.TextBox20.Hide()
+            Form2.Label19.Hide()
+            Form2.Label20.Hide()
+            Form2.Label21.Hide()
+            Form2.Label22.Hide()
+            Form2.Label23.Hide()
+            Form2.Label24.Hide()
+            TLine4 = 0
+        End If
     End Sub
 
     Private Sub Button6_Click(sender As Object, e As EventArgs) Handles Button6.Click
-        Form2.TextBox21.Hide()
-        Form2.TextBox29.Hide()
-        Form2.Label25.Hide()
-        Form2.Label26.Hide()
-        Form2.Label27.Hide()
-        Form2.Label28.Hide()
-        Form2.Label29.Hide()
-        Form2.Label30.Hide()
+        If TLine6 = 0 Then
+            Form2.TextBox21.Hide()
+            Form2.TextBox29.Hide()
+            Form2.Label25.Hide()
+            Form2.Label26.Hide()
+            Form2.Label27.Hide()
+            Form2.Label28.Hide()
+            Form2.Label29.Hide()
+            Form2.Label30.Hide()
+            TLine5 = 0
+        End If
     End Sub
 
     Private Sub Button8_Click(sender As Object, e As EventArgs) Handles Button8.Click
@@ -188,6 +207,7 @@
         Form2.Label34.Hide()
         Form2.Label35.Hide()
         Form2.Label36.Hide()
+        TLine6 = 0
     End Sub
 
     Private Sub Button9_Click(sender As Object, e As EventArgs) Handles Button9.Click
@@ -199,50 +219,63 @@
         Form2.Label58.Show()
         Form2.Label59.Show()
         Form2.Label60.Show()
+        BLine4 = 1
     End Sub
 
     Private Sub Button10_Click(sender As Object, e As EventArgs) Handles Button10.Click
-        Form2.TextBox11.Hide()
-        Form2.TextBox22.Hide()
-        Form2.Label55.Hide()
-        Form2.Label56.Hide()
-        Form2.Label57.Hide()
-        Form2.Label58.Hide()
-        Form2.Label59.Hide()
-        Form2.Label60.Hide()
+        If BLine5 = 0 Then
+            Form2.TextBox11.Hide()
+            Form2.TextBox22.Hide()
+            Form2.Label55.Hide()
+            Form2.Label56.Hide()
+            Form2.Label57.Hide()
+            Form2.Label58.Hide()
+            Form2.Label59.Hide()
+            Form2.Label60.Hide()
+            BLine4 = 0
+        End If
     End Sub
 
     Private Sub Button11_Click(sender As Object, e As EventArgs) Handles Button11.Click
-        Form2.TextBox71.Show()
-        Form2.TextBox78.Show()
-        Form2.Label61.Show()
-        Form2.Label62.Show()
-        Form2.Label63.Show()
-        Form2.Label64.Show()
-        Form2.Label65.Show()
-        Form2.Label66.Show()
+        If BLine4 = 1 Then
+            Form2.TextBox71.Show()
+            Form2.TextBox78.Show()
+            Form2.Label61.Show()
+            Form2.Label62.Show()
+            Form2.Label63.Show()
+            Form2.Label64.Show()
+            Form2.Label65.Show()
+            Form2.Label66.Show()
+            BLine5 = 1
+        End If
     End Sub
 
     Private Sub Button12_Click(sender As Object, e As EventArgs) Handles Button12.Click
-        Form2.TextBox71.Hide()
-        Form2.TextBox78.Hide()
-        Form2.Label61.Hide()
-        Form2.Label62.Hide()
-        Form2.Label63.Hide()
-        Form2.Label64.Hide()
-        Form2.Label65.Hide()
-        Form2.Label66.Hide()
+        If BLine6 = 0 Then
+            Form2.TextBox71.Hide()
+            Form2.TextBox78.Hide()
+            Form2.Label61.Hide()
+            Form2.Label62.Hide()
+            Form2.Label63.Hide()
+            Form2.Label64.Hide()
+            Form2.Label65.Hide()
+            Form2.Label66.Hide()
+            BLine5 = 0
+        End If
     End Sub
 
     Private Sub Button13_Click(sender As Object, e As EventArgs) Handles Button13.Click
-        Form2.TextBox79.Show()
-        Form2.TextBox86.Show()
-        Form2.Label67.Show()
-        Form2.Label68.Show()
-        Form2.Label69.Show()
-        Form2.Label70.Show()
-        Form2.Label71.Show()
-        Form2.Label72.Show()
+        If BLine5 = 1 Then
+            Form2.TextBox79.Show()
+            Form2.TextBox86.Show()
+            Form2.Label67.Show()
+            Form2.Label68.Show()
+            Form2.Label69.Show()
+            Form2.Label70.Show()
+            Form2.Label71.Show()
+            Form2.Label72.Show()
+            BLine6 = 1
+        End If
     End Sub
 
     Private Sub Button14_Click(sender As Object, e As EventArgs) Handles Button14.Click
@@ -254,6 +287,7 @@
         Form2.Label70.Hide()
         Form2.Label71.Hide()
         Form2.Label72.Hide()
+        BLine6 = 0
     End Sub
 End Class
 Public Class InputResizer
