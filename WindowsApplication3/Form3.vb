@@ -1,4 +1,4 @@
-﻿Public Class Form1
+﻿Public Class Form3
     Dim rs As New InputResizer
     Dim TLine4 As Integer = 1
     Dim TLine5 As Integer = 1
@@ -6,11 +6,10 @@
     Dim BLine4 As Integer = 1
     Dim BLine5 As Integer = 1
     Dim BLine6 As Integer = 1
-    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+    Private Sub Form3_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         rs.FindAllControls(Me)
-        Form3.Show()
     End Sub
-    Private Sub Form1_Resize(sender As Object, e As EventArgs) Handles Me.Resize
+    Private Sub Form3_Resize(sender As Object, e As EventArgs) Handles Me.Resize
         rs.ResizeAllControls(Me)
     End Sub
     Private Sub ButtonSubmit(sender As Object, e As EventArgs) Handles Button1.Click
@@ -502,7 +501,7 @@
         Form2.Label72.Hide()
     End Sub
 End Class
-Public Class InputResizer
+Public Class Input2Resizer
 
     '----------------------------------------------------------
     ' ControlInfo
