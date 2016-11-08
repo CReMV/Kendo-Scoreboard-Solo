@@ -126,8 +126,115 @@
     End Sub
 
     Private Sub ButtonClear(sender As Object, e As EventArgs) Handles Button2.Click
-        Me.Show()
-
+        TextBox1.Text = "POOL A"
+        TextBox33.Text = "Player 1"
+        TextBox34.Text = "Player 2"
+        TextBox35.Text = "Player 3"
+        TextBox6.Text = "POOL B"
+        TextBox11.Text = "Player 1"
+        TextBox12.Text = "Player 2"
+        TextBox13.Text = "Player 3"
+        TextBox17.Text = "Player 4"
+        TextBox16.Text = "Player 5"
+        TextBox15.Text = "Player 6"
+        TextBox3.Text = "Player A"
+        TextBox22.Text = "DAN MENS CATEGORY"
+        TextBox2.Text = "Shiaijo A"
+        TextBox38.Text = "Player 1"
+        TextBox39.Text = "Player 2"
+        TextBox40.Text = "Player 3"
+        TextBox10.Text = "Player 1"
+        TextBox9.Text = "Player 2"
+        TextBox8.Text = "Player 3"
+        TextBox20.Text = "Player 4"
+        TextBox19.Text = "Player 5"
+        TextBox18.Text = "Player 6"
+        TextBox4.Text = "Player 4"
+        TextBox44.Text = "POOL A AND POOL B"
+        TextBox7.Text = "Player 4"
+        TextBox21.Text = "Player 5"
+        TextBox24.Text = "Player 6"
+        TextBox14.Text = "Player 4"
+        TextBox23.Text = "Player 5"
+        TextBox25.Text = "Player 6"
+        ComboBox1.Text = ""
+        ComboBox2.Text = ""
+        ComboBox3.Text = ""
+        ComboBox4.Text = ""
+        ComboBox5.Text = ""
+        ComboBox6.Text = ""
+        ComboBox7.Text = ""
+        ComboBox8.Text = ""
+        ComboBox9.Text = ""
+        ComboBox10.Text = ""
+        ComboBox11.Text = ""
+        ComboBox12.Text = ""
+        ComboBox13.Text = ""
+        ComboBox14.Text = ""
+        ComboBox15.Text = ""
+        ComboBox16.Text = ""
+        ComboBox17.Text = ""
+        ComboBox18.Text = ""
+        ComboBox19.Text = ""
+        ComboBox20.Text = ""
+        ComboBox21.Text = ""
+        ComboBox22.Text = ""
+        ComboBox23.Text = ""
+        ComboBox24.Text = ""
+        ComboBox25.Text = ""
+        ComboBox26.Text = ""
+        ComboBox27.Text = ""
+        ComboBox28.Text = ""
+        ComboBox29.Text = ""
+        ComboBox30.Text = ""
+        ComboBox31.Text = ""
+        ComboBox32.Text = ""
+        ComboBox33.Text = ""
+        ComboBox34.Text = ""
+        ComboBox35.Text = ""
+        ComboBox36.Text = ""
+        ComboBox37.Text = ""
+        ComboBox38.Text = ""
+        ComboBox39.Text = ""
+        ComboBox40.Text = ""
+        ComboBox41.Text = ""
+        ComboBox42.Text = ""
+        ComboBox43.Text = ""
+        ComboBox44.Text = ""
+        ComboBox45.Text = ""
+        ComboBox46.Text = ""
+        ComboBox47.Text = ""
+        ComboBox48.Text = ""
+        ComboBox49.Text = ""
+        ComboBox50.Text = ""
+        ComboBox51.Text = ""
+        ComboBox52.Text = ""
+        ComboBox53.Text = ""
+        ComboBox54.Text = ""
+        ComboBox55.Text = ""
+        ComboBox56.Text = ""
+        ComboBox57.Text = ""
+        ComboBox58.Text = ""
+        ComboBox59.Text = ""
+        ComboBox60.Text = ""
+        ComboBox61.Text = ""
+        ComboBox62.Text = ""
+        ComboBox63.Text = ""
+        ComboBox64.Text = ""
+        ComboBox65.Text = ""
+        ComboBox66.Text = ""
+        ComboBox67.Text = ""
+        ComboBox68.Text = ""
+        ComboBox69.Text = ""
+        ComboBox70.Text = ""
+        ComboBox71.Text = ""
+        ComboBox72.Text = ""
+        ComboBox73.Text = ""
+        ComboBox74.Text = ""
+        ComboBox75.Text = ""
+        ComboBox76.Text = ""
+        ComboBox77.Text = ""
+        ComboBox78.Text = ""
     End Sub
 
     Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
@@ -288,6 +395,110 @@
         Form2.Label71.Hide()
         Form2.Label72.Hide()
         BLine6 = 0
+    End Sub
+
+    Private Sub Button15_Click(sender As Object, e As EventArgs) Handles Button15.Click
+        Form2.TextBox2.Show()
+        Form2.TextBox6.Show()
+        Form2.TextBox7.Show()
+        Form2.TextBox10.Show()
+        Form2.TextBox11.Show()
+        Form2.TextBox71.Show()
+        Form2.TextBox79.Show()
+        Form2.TextBox12.Show()
+        Form2.TextBox16.Show()
+        Form2.TextBox17.Show()
+        Form2.TextBox22.Show()
+        Form2.TextBox78.Show()
+        Form2.TextBox86.Show()
+        Form2.Label37.Show()
+        Form2.Label38.Show()
+        Form2.Label39.Show()
+        Form2.Label40.Show()
+        Form2.Label41.Show()
+        Form2.Label42.Show()
+        Form2.Label43.Show()
+        Form2.Label44.Show()
+        Form2.Label45.Show()
+        Form2.Label46.Show()
+        Form2.Label47.Show()
+        Form2.Label48.Show()
+        Form2.Label49.Show()
+        Form2.Label50.Show()
+        Form2.Label51.Show()
+        Form2.Label52.Show()
+        Form2.Label53.Show()
+        Form2.Label54.Show()
+        Form2.Label55.Show()
+        Form2.Label56.Show()
+        Form2.Label57.Show()
+        Form2.Label58.Show()
+        Form2.Label59.Show()
+        Form2.Label60.Show()
+        Form2.Label61.Show()
+        Form2.Label62.Show()
+        Form2.Label63.Show()
+        Form2.Label64.Show()
+        Form2.Label65.Show()
+        Form2.Label66.Show()
+        Form2.Label67.Show()
+        Form2.Label68.Show()
+        Form2.Label69.Show()
+        Form2.Label70.Show()
+        Form2.Label71.Show()
+        Form2.Label72.Show()
+    End Sub
+
+    Private Sub Button16_Click(sender As Object, e As EventArgs) Handles Button16.Click
+        Form2.TextBox2.Hide()
+        Form2.TextBox6.Hide()
+        Form2.TextBox7.Hide()
+        Form2.TextBox10.Hide()
+        Form2.TextBox11.Hide()
+        Form2.TextBox71.Hide()
+        Form2.TextBox79.Hide()
+        Form2.TextBox12.Hide()
+        Form2.TextBox16.Hide()
+        Form2.TextBox17.Hide()
+        Form2.TextBox22.Hide()
+        Form2.TextBox78.Hide()
+        Form2.TextBox86.Hide()
+        Form2.Label37.Hide()
+        Form2.Label38.Hide()
+        Form2.Label39.Hide()
+        Form2.Label40.Hide()
+        Form2.Label41.Hide()
+        Form2.Label42.Hide()
+        Form2.Label43.Hide()
+        Form2.Label44.Hide()
+        Form2.Label45.Hide()
+        Form2.Label46.Hide()
+        Form2.Label47.Hide()
+        Form2.Label48.Hide()
+        Form2.Label49.Hide()
+        Form2.Label50.Hide()
+        Form2.Label51.Hide()
+        Form2.Label52.Hide()
+        Form2.Label53.Hide()
+        Form2.Label54.Hide()
+        Form2.Label55.Hide()
+        Form2.Label56.Hide()
+        Form2.Label57.Hide()
+        Form2.Label58.Hide()
+        Form2.Label59.Hide()
+        Form2.Label60.Hide()
+        Form2.Label61.Hide()
+        Form2.Label62.Hide()
+        Form2.Label63.Hide()
+        Form2.Label64.Hide()
+        Form2.Label65.Hide()
+        Form2.Label66.Hide()
+        Form2.Label67.Hide()
+        Form2.Label68.Hide()
+        Form2.Label69.Hide()
+        Form2.Label70.Hide()
+        Form2.Label71.Hide()
+        Form2.Label72.Hide()
     End Sub
 End Class
 Public Class InputResizer

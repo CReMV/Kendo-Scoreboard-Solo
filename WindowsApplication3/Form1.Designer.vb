@@ -147,6 +147,8 @@ Partial Class Form1
         Me.Button12 = New System.Windows.Forms.Button()
         Me.Button13 = New System.Windows.Forms.Button()
         Me.Button14 = New System.Windows.Forms.Button()
+        Me.Button15 = New System.Windows.Forms.Button()
+        Me.Button16 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'TextBox1
@@ -1513,12 +1515,32 @@ Partial Class Form1
         Me.Button14.Text = "Hide"
         Me.Button14.UseVisualStyleBackColor = True
         '
+        'Button15
+        '
+        Me.Button15.Location = New System.Drawing.Point(220, 380)
+        Me.Button15.Name = "Button15"
+        Me.Button15.Size = New System.Drawing.Size(75, 23)
+        Me.Button15.TabIndex = 263
+        Me.Button15.Text = "Show"
+        Me.Button15.UseVisualStyleBackColor = True
+        '
+        'Button16
+        '
+        Me.Button16.Location = New System.Drawing.Point(302, 380)
+        Me.Button16.Name = "Button16"
+        Me.Button16.Size = New System.Drawing.Size(75, 23)
+        Me.Button16.TabIndex = 264
+        Me.Button16.Text = "Hide"
+        Me.Button16.UseVisualStyleBackColor = True
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.Window
         Me.ClientSize = New System.Drawing.Size(1015, 803)
+        Me.Controls.Add(Me.Button16)
+        Me.Controls.Add(Me.Button15)
         Me.Controls.Add(Me.Button14)
         Me.Controls.Add(Me.Button13)
         Me.Controls.Add(Me.Button12)
@@ -1776,4 +1798,6 @@ Partial Class Form1
     Friend WithEvents Button12 As Button
     Friend WithEvents Button13 As Button
     Friend WithEvents Button14 As Button
+    Friend WithEvents Button15 As Button
+    Friend WithEvents Button16 As Button
 End Class
