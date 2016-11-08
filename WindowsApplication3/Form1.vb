@@ -8,7 +8,6 @@
     Dim BLine6 As Integer = 1
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         rs.FindAllControls(Me)
-        Form3.Show()
     End Sub
     Private Sub Form1_Resize(sender As Object, e As EventArgs) Handles Me.Resize
         rs.ResizeAllControls(Me)
