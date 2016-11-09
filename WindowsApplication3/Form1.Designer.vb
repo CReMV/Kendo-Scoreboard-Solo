@@ -149,6 +149,8 @@ Partial Class Form1
         Me.Button14 = New System.Windows.Forms.Button()
         Me.Button15 = New System.Windows.Forms.Button()
         Me.Button16 = New System.Windows.Forms.Button()
+        Me.Button17 = New System.Windows.Forms.Button()
+        Me.Button18 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'TextBox1
@@ -1517,7 +1519,7 @@ Partial Class Form1
         '
         'Button15
         '
-        Me.Button15.Location = New System.Drawing.Point(220, 380)
+        Me.Button15.Location = New System.Drawing.Point(214, 361)
         Me.Button15.Name = "Button15"
         Me.Button15.Size = New System.Drawing.Size(75, 23)
         Me.Button15.TabIndex = 263
@@ -1526,12 +1528,30 @@ Partial Class Form1
         '
         'Button16
         '
-        Me.Button16.Location = New System.Drawing.Point(302, 380)
+        Me.Button16.Location = New System.Drawing.Point(214, 393)
         Me.Button16.Name = "Button16"
         Me.Button16.Size = New System.Drawing.Size(75, 23)
         Me.Button16.TabIndex = 264
         Me.Button16.Text = "Hide"
         Me.Button16.UseVisualStyleBackColor = True
+        '
+        'Button17
+        '
+        Me.Button17.Location = New System.Drawing.Point(214, 41)
+        Me.Button17.Name = "Button17"
+        Me.Button17.Size = New System.Drawing.Size(75, 23)
+        Me.Button17.TabIndex = 266
+        Me.Button17.Text = "Hide"
+        Me.Button17.UseVisualStyleBackColor = True
+        '
+        'Button18
+        '
+        Me.Button18.Location = New System.Drawing.Point(214, 12)
+        Me.Button18.Name = "Button18"
+        Me.Button18.Size = New System.Drawing.Size(75, 23)
+        Me.Button18.TabIndex = 265
+        Me.Button18.Text = "Show"
+        Me.Button18.UseVisualStyleBackColor = True
         '
         'Form1
         '
@@ -1539,6 +1559,8 @@ Partial Class Form1
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.Window
         Me.ClientSize = New System.Drawing.Size(1015, 803)
+        Me.Controls.Add(Me.Button17)
+        Me.Controls.Add(Me.Button18)
         Me.Controls.Add(Me.Button16)
         Me.Controls.Add(Me.Button15)
         Me.Controls.Add(Me.Button14)
@@ -1800,4 +1822,6 @@ Partial Class Form1
     Friend WithEvents Button14 As Button
     Friend WithEvents Button15 As Button
     Friend WithEvents Button16 As Button
+    Friend WithEvents Button17 As Button
+    Friend WithEvents Button18 As Button
 End Class
