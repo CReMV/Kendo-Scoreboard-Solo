@@ -398,11 +398,11 @@
     End Sub
 
     Private Sub Button15_Click(sender As Object, e As EventArgs) Handles Button15.Click
-        Form2.TextBox6.Show()
+        Form2.TextBox2.Show()
     End Sub
 
     Private Sub Button16_Click(sender As Object, e As EventArgs) Handles Button16.Click
-        Form2.TextBox6.Hide()
+        Form2.TextBox2.Hide()
     End Sub
 
     Private Sub Button18_Click(sender As Object, e As EventArgs) Handles Button18.Click
