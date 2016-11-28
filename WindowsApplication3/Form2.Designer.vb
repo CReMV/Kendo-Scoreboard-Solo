@@ -137,7 +137,7 @@ Partial Class Form2
         '
         'TextBox1
         '
-        Me.TextBox1.BackColor = System.Drawing.Color.LightGray
+        Me.TextBox1.BackColor = System.Drawing.Color.Yellow
         Me.TextBox1.Font = New System.Drawing.Font("Verdana", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox1.Location = New System.Drawing.Point(12, 12)
         Me.TextBox1.Multiline = True
@@ -147,7 +147,7 @@ Partial Class Form2
         '
         'TextBox3
         '
-        Me.TextBox3.BackColor = System.Drawing.Color.LightGray
+        Me.TextBox3.BackColor = System.Drawing.Color.White
         Me.TextBox3.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox3.Location = New System.Drawing.Point(12, 53)
         Me.TextBox3.Multiline = True
@@ -157,7 +157,7 @@ Partial Class Form2
         '
         'TextBox5
         '
-        Me.TextBox5.BackColor = System.Drawing.Color.LightGray
+        Me.TextBox5.BackColor = System.Drawing.Color.White
         Me.TextBox5.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox5.Location = New System.Drawing.Point(12, 125)
         Me.TextBox5.Multiline = True
@@ -167,7 +167,7 @@ Partial Class Form2
         '
         'TextBox8
         '
-        Me.TextBox8.BackColor = System.Drawing.Color.LightGray
+        Me.TextBox8.BackColor = System.Drawing.Color.White
         Me.TextBox8.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox8.Location = New System.Drawing.Point(12, 89)
         Me.TextBox8.Multiline = True
@@ -177,8 +177,9 @@ Partial Class Form2
         '
         'TextBox38
         '
-        Me.TextBox38.BackColor = System.Drawing.Color.LightGray
+        Me.TextBox38.BackColor = System.Drawing.Color.Brown
         Me.TextBox38.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox38.ForeColor = System.Drawing.Color.White
         Me.TextBox38.Location = New System.Drawing.Point(617, 89)
         Me.TextBox38.Multiline = True
         Me.TextBox38.Name = "TextBox38"
@@ -188,8 +189,9 @@ Partial Class Form2
         '
         'TextBox39
         '
-        Me.TextBox39.BackColor = System.Drawing.Color.LightGray
+        Me.TextBox39.BackColor = System.Drawing.Color.Brown
         Me.TextBox39.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox39.ForeColor = System.Drawing.Color.White
         Me.TextBox39.Location = New System.Drawing.Point(618, 53)
         Me.TextBox39.Multiline = True
         Me.TextBox39.Name = "TextBox39"
@@ -199,8 +201,9 @@ Partial Class Form2
         '
         'TextBox40
         '
-        Me.TextBox40.BackColor = System.Drawing.Color.LightGray
+        Me.TextBox40.BackColor = System.Drawing.Color.Brown
         Me.TextBox40.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox40.ForeColor = System.Drawing.Color.White
         Me.TextBox40.Location = New System.Drawing.Point(617, 125)
         Me.TextBox40.Multiline = True
         Me.TextBox40.Name = "TextBox40"
@@ -224,15 +227,15 @@ Partial Class Form2
         '
         Me.TextBox44.BackColor = System.Drawing.SystemColors.Info
         Me.TextBox44.Font = New System.Drawing.Font("Verdana", 11.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox44.Location = New System.Drawing.Point(259, 570)
+        Me.TextBox44.Location = New System.Drawing.Point(193, 570)
         Me.TextBox44.Multiline = True
         Me.TextBox44.Name = "TextBox44"
-        Me.TextBox44.Size = New System.Drawing.Size(509, 27)
+        Me.TextBox44.Size = New System.Drawing.Size(575, 27)
         Me.TextBox44.TabIndex = 43
         '
         'TextBox2
         '
-        Me.TextBox2.BackColor = System.Drawing.SystemColors.InactiveCaption
+        Me.TextBox2.BackColor = System.Drawing.Color.Yellow
         Me.TextBox2.Font = New System.Drawing.Font("Verdana", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
         Me.TextBox2.Location = New System.Drawing.Point(12, 277)
         Me.TextBox2.Multiline = True
@@ -242,7 +245,7 @@ Partial Class Form2
         '
         'TextBox6
         '
-        Me.TextBox6.BackColor = System.Drawing.SystemColors.InactiveCaption
+        Me.TextBox6.BackColor = System.Drawing.Color.White
         Me.TextBox6.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
         Me.TextBox6.Location = New System.Drawing.Point(12, 318)
         Me.TextBox6.Multiline = True
@@ -252,7 +255,7 @@ Partial Class Form2
         '
         'TextBox10
         '
-        Me.TextBox10.BackColor = System.Drawing.SystemColors.InactiveCaption
+        Me.TextBox10.BackColor = System.Drawing.Color.White
         Me.TextBox10.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
         Me.TextBox10.Location = New System.Drawing.Point(12, 390)
         Me.TextBox10.Multiline = True
@@ -262,7 +265,7 @@ Partial Class Form2
         '
         'TextBox11
         '
-        Me.TextBox11.BackColor = System.Drawing.SystemColors.InactiveCaption
+        Me.TextBox11.BackColor = System.Drawing.Color.White
         Me.TextBox11.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
         Me.TextBox11.Location = New System.Drawing.Point(12, 426)
         Me.TextBox11.Multiline = True
@@ -272,8 +275,9 @@ Partial Class Form2
         '
         'TextBox12
         '
-        Me.TextBox12.BackColor = System.Drawing.SystemColors.InactiveCaption
+        Me.TextBox12.BackColor = System.Drawing.Color.Brown
         Me.TextBox12.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
+        Me.TextBox12.ForeColor = System.Drawing.Color.White
         Me.TextBox12.Location = New System.Drawing.Point(617, 318)
         Me.TextBox12.Multiline = True
         Me.TextBox12.Name = "TextBox12"
@@ -283,8 +287,9 @@ Partial Class Form2
         '
         'TextBox16
         '
-        Me.TextBox16.BackColor = System.Drawing.SystemColors.InactiveCaption
+        Me.TextBox16.BackColor = System.Drawing.Color.Brown
         Me.TextBox16.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox16.ForeColor = System.Drawing.Color.White
         Me.TextBox16.Location = New System.Drawing.Point(618, 354)
         Me.TextBox16.Multiline = True
         Me.TextBox16.Name = "TextBox16"
@@ -294,8 +299,9 @@ Partial Class Form2
         '
         'TextBox17
         '
-        Me.TextBox17.BackColor = System.Drawing.SystemColors.InactiveCaption
+        Me.TextBox17.BackColor = System.Drawing.Color.Brown
         Me.TextBox17.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox17.ForeColor = System.Drawing.Color.White
         Me.TextBox17.Location = New System.Drawing.Point(618, 390)
         Me.TextBox17.Multiline = True
         Me.TextBox17.Name = "TextBox17"
@@ -305,8 +311,9 @@ Partial Class Form2
         '
         'TextBox22
         '
-        Me.TextBox22.BackColor = System.Drawing.SystemColors.InactiveCaption
+        Me.TextBox22.BackColor = System.Drawing.Color.Brown
         Me.TextBox22.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox22.ForeColor = System.Drawing.Color.White
         Me.TextBox22.Location = New System.Drawing.Point(618, 426)
         Me.TextBox22.Multiline = True
         Me.TextBox22.Name = "TextBox22"
@@ -316,7 +323,7 @@ Partial Class Form2
         '
         'TextBox7
         '
-        Me.TextBox7.BackColor = System.Drawing.SystemColors.InactiveCaption
+        Me.TextBox7.BackColor = System.Drawing.Color.White
         Me.TextBox7.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
         Me.TextBox7.Location = New System.Drawing.Point(12, 354)
         Me.TextBox7.Multiline = True
@@ -326,7 +333,7 @@ Partial Class Form2
         '
         'TextBox71
         '
-        Me.TextBox71.BackColor = System.Drawing.SystemColors.InactiveCaption
+        Me.TextBox71.BackColor = System.Drawing.Color.White
         Me.TextBox71.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
         Me.TextBox71.Location = New System.Drawing.Point(12, 462)
         Me.TextBox71.Multiline = True
@@ -336,7 +343,7 @@ Partial Class Form2
         '
         'TextBox79
         '
-        Me.TextBox79.BackColor = System.Drawing.SystemColors.InactiveCaption
+        Me.TextBox79.BackColor = System.Drawing.Color.White
         Me.TextBox79.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
         Me.TextBox79.Location = New System.Drawing.Point(12, 498)
         Me.TextBox79.Multiline = True
@@ -346,7 +353,7 @@ Partial Class Form2
         '
         'TextBox45
         '
-        Me.TextBox45.BackColor = System.Drawing.Color.Brown
+        Me.TextBox45.BackColor = System.Drawing.Color.White
         Me.TextBox45.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox45.Location = New System.Drawing.Point(12, 534)
         Me.TextBox45.Multiline = True
@@ -367,7 +374,7 @@ Partial Class Form2
         '
         'TextBox70
         '
-        Me.TextBox70.BackColor = System.Drawing.Color.LightGray
+        Me.TextBox70.BackColor = System.Drawing.Color.Yellow
         Me.TextBox70.Font = New System.Drawing.Font("Verdana", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
         Me.TextBox70.Location = New System.Drawing.Point(618, 12)
         Me.TextBox70.Multiline = True
@@ -378,8 +385,9 @@ Partial Class Form2
         '
         'TextBox78
         '
-        Me.TextBox78.BackColor = System.Drawing.SystemColors.InactiveCaption
+        Me.TextBox78.BackColor = System.Drawing.Color.Brown
         Me.TextBox78.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox78.ForeColor = System.Drawing.Color.White
         Me.TextBox78.Location = New System.Drawing.Point(618, 462)
         Me.TextBox78.Multiline = True
         Me.TextBox78.Name = "TextBox78"
@@ -389,8 +397,9 @@ Partial Class Form2
         '
         'TextBox86
         '
-        Me.TextBox86.BackColor = System.Drawing.SystemColors.InactiveCaption
+        Me.TextBox86.BackColor = System.Drawing.Color.Brown
         Me.TextBox86.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
+        Me.TextBox86.ForeColor = System.Drawing.Color.White
         Me.TextBox86.Location = New System.Drawing.Point(618, 498)
         Me.TextBox86.Multiline = True
         Me.TextBox86.Name = "TextBox86"
@@ -400,8 +409,9 @@ Partial Class Form2
         '
         'TextBox52
         '
-        Me.TextBox52.BackColor = System.Drawing.Color.Brown
+        Me.TextBox52.BackColor = System.Drawing.Color.DarkRed
         Me.TextBox52.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox52.ForeColor = System.Drawing.Color.White
         Me.TextBox52.Location = New System.Drawing.Point(618, 534)
         Me.TextBox52.Multiline = True
         Me.TextBox52.Name = "TextBox52"
@@ -1011,7 +1021,7 @@ Partial Class Form2
         '
         'TextBox4
         '
-        Me.TextBox4.BackColor = System.Drawing.Color.LightGray
+        Me.TextBox4.BackColor = System.Drawing.Color.White
         Me.TextBox4.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
         Me.TextBox4.Location = New System.Drawing.Point(12, 160)
         Me.TextBox4.Multiline = True
@@ -1021,8 +1031,9 @@ Partial Class Form2
         '
         'TextBox20
         '
-        Me.TextBox20.BackColor = System.Drawing.Color.LightGray
+        Me.TextBox20.BackColor = System.Drawing.Color.Brown
         Me.TextBox20.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
+        Me.TextBox20.ForeColor = System.Drawing.Color.White
         Me.TextBox20.Location = New System.Drawing.Point(617, 160)
         Me.TextBox20.Multiline = True
         Me.TextBox20.Name = "TextBox20"
@@ -1032,7 +1043,7 @@ Partial Class Form2
         '
         'TextBox21
         '
-        Me.TextBox21.BackColor = System.Drawing.Color.LightGray
+        Me.TextBox21.BackColor = System.Drawing.Color.White
         Me.TextBox21.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox21.Location = New System.Drawing.Point(12, 196)
         Me.TextBox21.Multiline = True
@@ -1042,8 +1053,9 @@ Partial Class Form2
         '
         'TextBox29
         '
-        Me.TextBox29.BackColor = System.Drawing.Color.LightGray
+        Me.TextBox29.BackColor = System.Drawing.Color.Brown
         Me.TextBox29.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox29.ForeColor = System.Drawing.Color.White
         Me.TextBox29.Location = New System.Drawing.Point(617, 196)
         Me.TextBox29.Multiline = True
         Me.TextBox29.Name = "TextBox29"
@@ -1053,7 +1065,7 @@ Partial Class Form2
         '
         'TextBox30
         '
-        Me.TextBox30.BackColor = System.Drawing.Color.LightGray
+        Me.TextBox30.BackColor = System.Drawing.Color.White
         Me.TextBox30.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox30.Location = New System.Drawing.Point(12, 232)
         Me.TextBox30.Multiline = True
@@ -1063,8 +1075,9 @@ Partial Class Form2
         '
         'TextBox37
         '
-        Me.TextBox37.BackColor = System.Drawing.Color.LightGray
+        Me.TextBox37.BackColor = System.Drawing.Color.Brown
         Me.TextBox37.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
+        Me.TextBox37.ForeColor = System.Drawing.Color.White
         Me.TextBox37.Location = New System.Drawing.Point(617, 232)
         Me.TextBox37.Multiline = True
         Me.TextBox37.Name = "TextBox37"
