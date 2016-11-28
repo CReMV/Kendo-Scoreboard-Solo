@@ -142,47 +142,47 @@ Partial Class Form2
         Me.TextBox1.Location = New System.Drawing.Point(12, 12)
         Me.TextBox1.Multiline = True
         Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(203, 60)
+        Me.TextBox1.Size = New System.Drawing.Size(150, 35)
         Me.TextBox1.TabIndex = 0
         '
         'TextBox3
         '
         Me.TextBox3.BackColor = System.Drawing.Color.LightGray
         Me.TextBox3.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox3.Location = New System.Drawing.Point(12, 78)
+        Me.TextBox3.Location = New System.Drawing.Point(12, 53)
         Me.TextBox3.Multiline = True
         Me.TextBox3.Name = "TextBox3"
-        Me.TextBox3.Size = New System.Drawing.Size(203, 40)
+        Me.TextBox3.Size = New System.Drawing.Size(150, 30)
         Me.TextBox3.TabIndex = 2
         '
         'TextBox5
         '
         Me.TextBox5.BackColor = System.Drawing.Color.LightGray
         Me.TextBox5.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox5.Location = New System.Drawing.Point(12, 170)
+        Me.TextBox5.Location = New System.Drawing.Point(12, 125)
         Me.TextBox5.Multiline = True
         Me.TextBox5.Name = "TextBox5"
-        Me.TextBox5.Size = New System.Drawing.Size(203, 40)
+        Me.TextBox5.Size = New System.Drawing.Size(150, 30)
         Me.TextBox5.TabIndex = 4
         '
         'TextBox8
         '
         Me.TextBox8.BackColor = System.Drawing.Color.LightGray
         Me.TextBox8.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox8.Location = New System.Drawing.Point(12, 124)
+        Me.TextBox8.Location = New System.Drawing.Point(12, 89)
         Me.TextBox8.Multiline = True
         Me.TextBox8.Name = "TextBox8"
-        Me.TextBox8.Size = New System.Drawing.Size(203, 40)
+        Me.TextBox8.Size = New System.Drawing.Size(150, 30)
         Me.TextBox8.TabIndex = 7
         '
         'TextBox38
         '
         Me.TextBox38.BackColor = System.Drawing.Color.LightGray
         Me.TextBox38.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox38.Location = New System.Drawing.Point(618, 124)
+        Me.TextBox38.Location = New System.Drawing.Point(617, 89)
         Me.TextBox38.Multiline = True
         Me.TextBox38.Name = "TextBox38"
-        Me.TextBox38.Size = New System.Drawing.Size(200, 40)
+        Me.TextBox38.Size = New System.Drawing.Size(150, 30)
         Me.TextBox38.TabIndex = 37
         Me.TextBox38.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
@@ -190,10 +190,10 @@ Partial Class Form2
         '
         Me.TextBox39.BackColor = System.Drawing.Color.LightGray
         Me.TextBox39.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox39.Location = New System.Drawing.Point(618, 78)
+        Me.TextBox39.Location = New System.Drawing.Point(618, 53)
         Me.TextBox39.Multiline = True
         Me.TextBox39.Name = "TextBox39"
-        Me.TextBox39.Size = New System.Drawing.Size(200, 40)
+        Me.TextBox39.Size = New System.Drawing.Size(150, 30)
         Me.TextBox39.TabIndex = 38
         Me.TextBox39.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
@@ -201,10 +201,10 @@ Partial Class Form2
         '
         Me.TextBox40.BackColor = System.Drawing.Color.LightGray
         Me.TextBox40.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox40.Location = New System.Drawing.Point(618, 170)
+        Me.TextBox40.Location = New System.Drawing.Point(617, 125)
         Me.TextBox40.Multiline = True
         Me.TextBox40.Name = "TextBox40"
-        Me.TextBox40.Size = New System.Drawing.Size(200, 40)
+        Me.TextBox40.Size = New System.Drawing.Size(151, 30)
         Me.TextBox40.TabIndex = 39
         Me.TextBox40.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
@@ -212,10 +212,10 @@ Partial Class Form2
         '
         Me.TextBox43.BackColor = System.Drawing.SystemColors.Info
         Me.TextBox43.Font = New System.Drawing.Font("Verdana", 11.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox43.Location = New System.Drawing.Point(12, 778)
+        Me.TextBox43.Location = New System.Drawing.Point(12, 570)
         Me.TextBox43.Multiline = True
         Me.TextBox43.Name = "TextBox43"
-        Me.TextBox43.Size = New System.Drawing.Size(203, 49)
+        Me.TextBox43.Size = New System.Drawing.Size(150, 27)
         Me.TextBox43.TabIndex = 42
         Me.TextBox43.Text = "Coming up"
         Me.TextBox43.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
@@ -224,60 +224,60 @@ Partial Class Form2
         '
         Me.TextBox44.BackColor = System.Drawing.SystemColors.Info
         Me.TextBox44.Font = New System.Drawing.Font("Verdana", 11.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox44.Location = New System.Drawing.Point(224, 778)
+        Me.TextBox44.Location = New System.Drawing.Point(259, 570)
         Me.TextBox44.Multiline = True
         Me.TextBox44.Name = "TextBox44"
-        Me.TextBox44.Size = New System.Drawing.Size(594, 49)
+        Me.TextBox44.Size = New System.Drawing.Size(509, 27)
         Me.TextBox44.TabIndex = 43
         '
         'TextBox2
         '
         Me.TextBox2.BackColor = System.Drawing.SystemColors.InactiveCaption
         Me.TextBox2.Font = New System.Drawing.Font("Verdana", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.TextBox2.Location = New System.Drawing.Point(12, 371)
+        Me.TextBox2.Location = New System.Drawing.Point(12, 277)
         Me.TextBox2.Multiline = True
         Me.TextBox2.Name = "TextBox2"
-        Me.TextBox2.Size = New System.Drawing.Size(203, 60)
+        Me.TextBox2.Size = New System.Drawing.Size(150, 35)
         Me.TextBox2.TabIndex = 52
         '
         'TextBox6
         '
         Me.TextBox6.BackColor = System.Drawing.SystemColors.InactiveCaption
         Me.TextBox6.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.TextBox6.Location = New System.Drawing.Point(12, 437)
+        Me.TextBox6.Location = New System.Drawing.Point(12, 318)
         Me.TextBox6.Multiline = True
         Me.TextBox6.Name = "TextBox6"
-        Me.TextBox6.Size = New System.Drawing.Size(203, 40)
+        Me.TextBox6.Size = New System.Drawing.Size(150, 30)
         Me.TextBox6.TabIndex = 53
         '
         'TextBox10
         '
         Me.TextBox10.BackColor = System.Drawing.SystemColors.InactiveCaption
         Me.TextBox10.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.TextBox10.Location = New System.Drawing.Point(12, 529)
+        Me.TextBox10.Location = New System.Drawing.Point(12, 390)
         Me.TextBox10.Multiline = True
         Me.TextBox10.Name = "TextBox10"
-        Me.TextBox10.Size = New System.Drawing.Size(203, 40)
+        Me.TextBox10.Size = New System.Drawing.Size(150, 30)
         Me.TextBox10.TabIndex = 55
         '
         'TextBox11
         '
         Me.TextBox11.BackColor = System.Drawing.SystemColors.InactiveCaption
         Me.TextBox11.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.TextBox11.Location = New System.Drawing.Point(12, 575)
+        Me.TextBox11.Location = New System.Drawing.Point(12, 426)
         Me.TextBox11.Multiline = True
         Me.TextBox11.Name = "TextBox11"
-        Me.TextBox11.Size = New System.Drawing.Size(203, 40)
+        Me.TextBox11.Size = New System.Drawing.Size(150, 30)
         Me.TextBox11.TabIndex = 56
         '
         'TextBox12
         '
         Me.TextBox12.BackColor = System.Drawing.SystemColors.InactiveCaption
         Me.TextBox12.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.TextBox12.Location = New System.Drawing.Point(618, 437)
+        Me.TextBox12.Location = New System.Drawing.Point(617, 318)
         Me.TextBox12.Multiline = True
         Me.TextBox12.Name = "TextBox12"
-        Me.TextBox12.Size = New System.Drawing.Size(200, 40)
+        Me.TextBox12.Size = New System.Drawing.Size(150, 30)
         Me.TextBox12.TabIndex = 57
         Me.TextBox12.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
@@ -285,10 +285,10 @@ Partial Class Form2
         '
         Me.TextBox16.BackColor = System.Drawing.SystemColors.InactiveCaption
         Me.TextBox16.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox16.Location = New System.Drawing.Point(617, 483)
+        Me.TextBox16.Location = New System.Drawing.Point(618, 354)
         Me.TextBox16.Multiline = True
         Me.TextBox16.Name = "TextBox16"
-        Me.TextBox16.Size = New System.Drawing.Size(200, 40)
+        Me.TextBox16.Size = New System.Drawing.Size(149, 30)
         Me.TextBox16.TabIndex = 58
         Me.TextBox16.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
@@ -296,10 +296,10 @@ Partial Class Form2
         '
         Me.TextBox17.BackColor = System.Drawing.SystemColors.InactiveCaption
         Me.TextBox17.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox17.Location = New System.Drawing.Point(617, 529)
+        Me.TextBox17.Location = New System.Drawing.Point(618, 390)
         Me.TextBox17.Multiline = True
         Me.TextBox17.Name = "TextBox17"
-        Me.TextBox17.Size = New System.Drawing.Size(200, 40)
+        Me.TextBox17.Size = New System.Drawing.Size(150, 30)
         Me.TextBox17.TabIndex = 59
         Me.TextBox17.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
@@ -307,10 +307,10 @@ Partial Class Form2
         '
         Me.TextBox22.BackColor = System.Drawing.SystemColors.InactiveCaption
         Me.TextBox22.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox22.Location = New System.Drawing.Point(617, 575)
+        Me.TextBox22.Location = New System.Drawing.Point(618, 426)
         Me.TextBox22.Multiline = True
         Me.TextBox22.Name = "TextBox22"
-        Me.TextBox22.Size = New System.Drawing.Size(200, 40)
+        Me.TextBox22.Size = New System.Drawing.Size(150, 30)
         Me.TextBox22.TabIndex = 60
         Me.TextBox22.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
@@ -318,40 +318,40 @@ Partial Class Form2
         '
         Me.TextBox7.BackColor = System.Drawing.SystemColors.InactiveCaption
         Me.TextBox7.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.TextBox7.Location = New System.Drawing.Point(12, 483)
+        Me.TextBox7.Location = New System.Drawing.Point(12, 354)
         Me.TextBox7.Multiline = True
         Me.TextBox7.Name = "TextBox7"
-        Me.TextBox7.Size = New System.Drawing.Size(203, 40)
+        Me.TextBox7.Size = New System.Drawing.Size(150, 30)
         Me.TextBox7.TabIndex = 103
         '
         'TextBox71
         '
         Me.TextBox71.BackColor = System.Drawing.SystemColors.InactiveCaption
         Me.TextBox71.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.TextBox71.Location = New System.Drawing.Point(12, 621)
+        Me.TextBox71.Location = New System.Drawing.Point(12, 462)
         Me.TextBox71.Multiline = True
         Me.TextBox71.Name = "TextBox71"
-        Me.TextBox71.Size = New System.Drawing.Size(203, 40)
+        Me.TextBox71.Size = New System.Drawing.Size(150, 30)
         Me.TextBox71.TabIndex = 104
         '
         'TextBox79
         '
         Me.TextBox79.BackColor = System.Drawing.SystemColors.InactiveCaption
         Me.TextBox79.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.TextBox79.Location = New System.Drawing.Point(12, 667)
+        Me.TextBox79.Location = New System.Drawing.Point(12, 498)
         Me.TextBox79.Multiline = True
         Me.TextBox79.Name = "TextBox79"
-        Me.TextBox79.Size = New System.Drawing.Size(203, 40)
+        Me.TextBox79.Size = New System.Drawing.Size(150, 30)
         Me.TextBox79.TabIndex = 105
         '
         'TextBox45
         '
         Me.TextBox45.BackColor = System.Drawing.Color.Brown
         Me.TextBox45.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox45.Location = New System.Drawing.Point(12, 732)
+        Me.TextBox45.Location = New System.Drawing.Point(12, 534)
         Me.TextBox45.Multiline = True
         Me.TextBox45.Name = "TextBox45"
-        Me.TextBox45.Size = New System.Drawing.Size(203, 40)
+        Me.TextBox45.Size = New System.Drawing.Size(150, 30)
         Me.TextBox45.TabIndex = 106
         '
         'TextBox69
@@ -361,7 +361,7 @@ Partial Class Form2
         Me.TextBox69.Location = New System.Drawing.Point(221, 12)
         Me.TextBox69.Multiline = True
         Me.TextBox69.Name = "TextBox69"
-        Me.TextBox69.Size = New System.Drawing.Size(391, 60)
+        Me.TextBox69.Size = New System.Drawing.Size(324, 35)
         Me.TextBox69.TabIndex = 107
         Me.TextBox69.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
@@ -372,7 +372,7 @@ Partial Class Form2
         Me.TextBox70.Location = New System.Drawing.Point(618, 12)
         Me.TextBox70.Multiline = True
         Me.TextBox70.Name = "TextBox70"
-        Me.TextBox70.Size = New System.Drawing.Size(199, 60)
+        Me.TextBox70.Size = New System.Drawing.Size(150, 35)
         Me.TextBox70.TabIndex = 108
         Me.TextBox70.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
@@ -380,10 +380,10 @@ Partial Class Form2
         '
         Me.TextBox78.BackColor = System.Drawing.SystemColors.InactiveCaption
         Me.TextBox78.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox78.Location = New System.Drawing.Point(617, 621)
+        Me.TextBox78.Location = New System.Drawing.Point(618, 462)
         Me.TextBox78.Multiline = True
         Me.TextBox78.Name = "TextBox78"
-        Me.TextBox78.Size = New System.Drawing.Size(200, 40)
+        Me.TextBox78.Size = New System.Drawing.Size(150, 30)
         Me.TextBox78.TabIndex = 109
         Me.TextBox78.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
@@ -391,10 +391,10 @@ Partial Class Form2
         '
         Me.TextBox86.BackColor = System.Drawing.SystemColors.InactiveCaption
         Me.TextBox86.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.TextBox86.Location = New System.Drawing.Point(617, 667)
+        Me.TextBox86.Location = New System.Drawing.Point(618, 498)
         Me.TextBox86.Multiline = True
         Me.TextBox86.Name = "TextBox86"
-        Me.TextBox86.Size = New System.Drawing.Size(200, 42)
+        Me.TextBox86.Size = New System.Drawing.Size(150, 30)
         Me.TextBox86.TabIndex = 110
         Me.TextBox86.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
@@ -402,10 +402,10 @@ Partial Class Form2
         '
         Me.TextBox52.BackColor = System.Drawing.Color.Brown
         Me.TextBox52.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox52.Location = New System.Drawing.Point(619, 732)
+        Me.TextBox52.Location = New System.Drawing.Point(618, 534)
         Me.TextBox52.Multiline = True
         Me.TextBox52.Name = "TextBox52"
-        Me.TextBox52.Size = New System.Drawing.Size(199, 40)
+        Me.TextBox52.Size = New System.Drawing.Size(150, 30)
         Me.TextBox52.TabIndex = 111
         Me.TextBox52.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
@@ -413,9 +413,9 @@ Partial Class Form2
         '
         Me.Label1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label1.Location = New System.Drawing.Point(221, 78)
+        Me.Label1.Location = New System.Drawing.Point(193, 53)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(60, 40)
+        Me.Label1.Size = New System.Drawing.Size(60, 30)
         Me.Label1.TabIndex = 112
         Me.Label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -423,9 +423,9 @@ Partial Class Form2
         '
         Me.Label2.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label2.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label2.Location = New System.Drawing.Point(287, 78)
+        Me.Label2.Location = New System.Drawing.Point(259, 53)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(60, 40)
+        Me.Label2.Size = New System.Drawing.Size(60, 30)
         Me.Label2.TabIndex = 113
         Me.Label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -433,9 +433,9 @@ Partial Class Form2
         '
         Me.Label3.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label3.Location = New System.Drawing.Point(353, 78)
+        Me.Label3.Location = New System.Drawing.Point(325, 53)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(60, 40)
+        Me.Label3.Size = New System.Drawing.Size(60, 30)
         Me.Label3.TabIndex = 114
         Me.Label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -443,9 +443,9 @@ Partial Class Form2
         '
         Me.Label4.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label4.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label4.Location = New System.Drawing.Point(417, 78)
+        Me.Label4.Location = New System.Drawing.Point(391, 53)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(60, 40)
+        Me.Label4.Size = New System.Drawing.Size(60, 30)
         Me.Label4.TabIndex = 115
         Me.Label4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -453,9 +453,9 @@ Partial Class Form2
         '
         Me.Label5.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label5.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label5.Location = New System.Drawing.Point(483, 78)
+        Me.Label5.Location = New System.Drawing.Point(457, 53)
         Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(60, 40)
+        Me.Label5.Size = New System.Drawing.Size(60, 30)
         Me.Label5.TabIndex = 116
         Me.Label5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -463,9 +463,9 @@ Partial Class Form2
         '
         Me.Label6.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label6.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label6.Location = New System.Drawing.Point(549, 78)
+        Me.Label6.Location = New System.Drawing.Point(523, 53)
         Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(60, 40)
+        Me.Label6.Size = New System.Drawing.Size(60, 30)
         Me.Label6.TabIndex = 117
         Me.Label6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -473,9 +473,9 @@ Partial Class Form2
         '
         Me.Label7.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label7.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label7.Location = New System.Drawing.Point(221, 124)
+        Me.Label7.Location = New System.Drawing.Point(193, 89)
         Me.Label7.Name = "Label7"
-        Me.Label7.Size = New System.Drawing.Size(60, 40)
+        Me.Label7.Size = New System.Drawing.Size(60, 30)
         Me.Label7.TabIndex = 123
         Me.Label7.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -483,9 +483,9 @@ Partial Class Form2
         '
         Me.Label8.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label8.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label8.Location = New System.Drawing.Point(287, 124)
+        Me.Label8.Location = New System.Drawing.Point(259, 89)
         Me.Label8.Name = "Label8"
-        Me.Label8.Size = New System.Drawing.Size(60, 40)
+        Me.Label8.Size = New System.Drawing.Size(60, 30)
         Me.Label8.TabIndex = 122
         Me.Label8.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -493,9 +493,9 @@ Partial Class Form2
         '
         Me.Label9.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label9.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label9.Location = New System.Drawing.Point(353, 124)
+        Me.Label9.Location = New System.Drawing.Point(325, 89)
         Me.Label9.Name = "Label9"
-        Me.Label9.Size = New System.Drawing.Size(60, 40)
+        Me.Label9.Size = New System.Drawing.Size(60, 30)
         Me.Label9.TabIndex = 121
         Me.Label9.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -503,9 +503,9 @@ Partial Class Form2
         '
         Me.Label10.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label10.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label10.Location = New System.Drawing.Point(417, 124)
+        Me.Label10.Location = New System.Drawing.Point(391, 89)
         Me.Label10.Name = "Label10"
-        Me.Label10.Size = New System.Drawing.Size(60, 40)
+        Me.Label10.Size = New System.Drawing.Size(60, 30)
         Me.Label10.TabIndex = 120
         Me.Label10.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -513,9 +513,9 @@ Partial Class Form2
         '
         Me.Label11.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label11.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label11.Location = New System.Drawing.Point(483, 124)
+        Me.Label11.Location = New System.Drawing.Point(457, 89)
         Me.Label11.Name = "Label11"
-        Me.Label11.Size = New System.Drawing.Size(60, 40)
+        Me.Label11.Size = New System.Drawing.Size(60, 30)
         Me.Label11.TabIndex = 119
         Me.Label11.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -523,9 +523,9 @@ Partial Class Form2
         '
         Me.Label12.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label12.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label12.Location = New System.Drawing.Point(549, 124)
+        Me.Label12.Location = New System.Drawing.Point(523, 89)
         Me.Label12.Name = "Label12"
-        Me.Label12.Size = New System.Drawing.Size(60, 40)
+        Me.Label12.Size = New System.Drawing.Size(60, 30)
         Me.Label12.TabIndex = 118
         Me.Label12.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -533,9 +533,9 @@ Partial Class Form2
         '
         Me.Label13.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label13.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label13.Location = New System.Drawing.Point(221, 170)
+        Me.Label13.Location = New System.Drawing.Point(193, 123)
         Me.Label13.Name = "Label13"
-        Me.Label13.Size = New System.Drawing.Size(60, 40)
+        Me.Label13.Size = New System.Drawing.Size(60, 30)
         Me.Label13.TabIndex = 129
         Me.Label13.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -543,9 +543,9 @@ Partial Class Form2
         '
         Me.Label14.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label14.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label14.Location = New System.Drawing.Point(287, 170)
+        Me.Label14.Location = New System.Drawing.Point(259, 124)
         Me.Label14.Name = "Label14"
-        Me.Label14.Size = New System.Drawing.Size(60, 40)
+        Me.Label14.Size = New System.Drawing.Size(60, 30)
         Me.Label14.TabIndex = 128
         Me.Label14.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -553,9 +553,9 @@ Partial Class Form2
         '
         Me.Label15.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label15.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label15.Location = New System.Drawing.Point(353, 170)
+        Me.Label15.Location = New System.Drawing.Point(325, 124)
         Me.Label15.Name = "Label15"
-        Me.Label15.Size = New System.Drawing.Size(60, 40)
+        Me.Label15.Size = New System.Drawing.Size(60, 30)
         Me.Label15.TabIndex = 127
         Me.Label15.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -563,9 +563,9 @@ Partial Class Form2
         '
         Me.Label16.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label16.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label16.Location = New System.Drawing.Point(417, 170)
+        Me.Label16.Location = New System.Drawing.Point(391, 123)
         Me.Label16.Name = "Label16"
-        Me.Label16.Size = New System.Drawing.Size(60, 40)
+        Me.Label16.Size = New System.Drawing.Size(60, 31)
         Me.Label16.TabIndex = 126
         Me.Label16.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -573,9 +573,9 @@ Partial Class Form2
         '
         Me.Label17.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label17.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label17.Location = New System.Drawing.Point(483, 170)
+        Me.Label17.Location = New System.Drawing.Point(457, 125)
         Me.Label17.Name = "Label17"
-        Me.Label17.Size = New System.Drawing.Size(60, 40)
+        Me.Label17.Size = New System.Drawing.Size(60, 30)
         Me.Label17.TabIndex = 125
         Me.Label17.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -583,9 +583,9 @@ Partial Class Form2
         '
         Me.Label18.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label18.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label18.Location = New System.Drawing.Point(549, 170)
+        Me.Label18.Location = New System.Drawing.Point(523, 124)
         Me.Label18.Name = "Label18"
-        Me.Label18.Size = New System.Drawing.Size(60, 40)
+        Me.Label18.Size = New System.Drawing.Size(60, 30)
         Me.Label18.TabIndex = 124
         Me.Label18.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -593,9 +593,9 @@ Partial Class Form2
         '
         Me.Label19.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label19.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label19.Location = New System.Drawing.Point(221, 216)
+        Me.Label19.Location = New System.Drawing.Point(193, 160)
         Me.Label19.Name = "Label19"
-        Me.Label19.Size = New System.Drawing.Size(60, 40)
+        Me.Label19.Size = New System.Drawing.Size(60, 30)
         Me.Label19.TabIndex = 135
         Me.Label19.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -603,9 +603,9 @@ Partial Class Form2
         '
         Me.Label20.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label20.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label20.Location = New System.Drawing.Point(287, 216)
+        Me.Label20.Location = New System.Drawing.Point(259, 160)
         Me.Label20.Name = "Label20"
-        Me.Label20.Size = New System.Drawing.Size(60, 40)
+        Me.Label20.Size = New System.Drawing.Size(60, 30)
         Me.Label20.TabIndex = 134
         Me.Label20.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -613,9 +613,9 @@ Partial Class Form2
         '
         Me.Label21.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label21.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label21.Location = New System.Drawing.Point(353, 216)
+        Me.Label21.Location = New System.Drawing.Point(325, 160)
         Me.Label21.Name = "Label21"
-        Me.Label21.Size = New System.Drawing.Size(60, 40)
+        Me.Label21.Size = New System.Drawing.Size(60, 30)
         Me.Label21.TabIndex = 133
         Me.Label21.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -623,9 +623,9 @@ Partial Class Form2
         '
         Me.Label22.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label22.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label22.Location = New System.Drawing.Point(417, 216)
+        Me.Label22.Location = New System.Drawing.Point(391, 160)
         Me.Label22.Name = "Label22"
-        Me.Label22.Size = New System.Drawing.Size(60, 40)
+        Me.Label22.Size = New System.Drawing.Size(60, 30)
         Me.Label22.TabIndex = 132
         Me.Label22.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -633,9 +633,9 @@ Partial Class Form2
         '
         Me.Label23.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label23.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label23.Location = New System.Drawing.Point(483, 216)
+        Me.Label23.Location = New System.Drawing.Point(457, 160)
         Me.Label23.Name = "Label23"
-        Me.Label23.Size = New System.Drawing.Size(60, 40)
+        Me.Label23.Size = New System.Drawing.Size(60, 30)
         Me.Label23.TabIndex = 131
         Me.Label23.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -643,9 +643,9 @@ Partial Class Form2
         '
         Me.Label24.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label24.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label24.Location = New System.Drawing.Point(549, 216)
+        Me.Label24.Location = New System.Drawing.Point(523, 160)
         Me.Label24.Name = "Label24"
-        Me.Label24.Size = New System.Drawing.Size(60, 40)
+        Me.Label24.Size = New System.Drawing.Size(60, 30)
         Me.Label24.TabIndex = 130
         Me.Label24.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -653,9 +653,9 @@ Partial Class Form2
         '
         Me.Label25.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label25.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label25.Location = New System.Drawing.Point(221, 262)
+        Me.Label25.Location = New System.Drawing.Point(193, 196)
         Me.Label25.Name = "Label25"
-        Me.Label25.Size = New System.Drawing.Size(60, 40)
+        Me.Label25.Size = New System.Drawing.Size(60, 30)
         Me.Label25.TabIndex = 141
         Me.Label25.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -663,9 +663,9 @@ Partial Class Form2
         '
         Me.Label26.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label26.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label26.Location = New System.Drawing.Point(287, 262)
+        Me.Label26.Location = New System.Drawing.Point(259, 196)
         Me.Label26.Name = "Label26"
-        Me.Label26.Size = New System.Drawing.Size(60, 40)
+        Me.Label26.Size = New System.Drawing.Size(60, 30)
         Me.Label26.TabIndex = 140
         Me.Label26.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -673,9 +673,9 @@ Partial Class Form2
         '
         Me.Label27.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label27.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label27.Location = New System.Drawing.Point(353, 262)
+        Me.Label27.Location = New System.Drawing.Point(325, 196)
         Me.Label27.Name = "Label27"
-        Me.Label27.Size = New System.Drawing.Size(60, 40)
+        Me.Label27.Size = New System.Drawing.Size(60, 30)
         Me.Label27.TabIndex = 139
         Me.Label27.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -683,9 +683,9 @@ Partial Class Form2
         '
         Me.Label28.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label28.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label28.Location = New System.Drawing.Point(417, 262)
+        Me.Label28.Location = New System.Drawing.Point(391, 196)
         Me.Label28.Name = "Label28"
-        Me.Label28.Size = New System.Drawing.Size(60, 40)
+        Me.Label28.Size = New System.Drawing.Size(60, 30)
         Me.Label28.TabIndex = 138
         Me.Label28.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -693,9 +693,9 @@ Partial Class Form2
         '
         Me.Label29.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label29.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label29.Location = New System.Drawing.Point(483, 262)
+        Me.Label29.Location = New System.Drawing.Point(457, 196)
         Me.Label29.Name = "Label29"
-        Me.Label29.Size = New System.Drawing.Size(60, 40)
+        Me.Label29.Size = New System.Drawing.Size(60, 30)
         Me.Label29.TabIndex = 137
         Me.Label29.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -703,9 +703,9 @@ Partial Class Form2
         '
         Me.Label30.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label30.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label30.Location = New System.Drawing.Point(549, 262)
+        Me.Label30.Location = New System.Drawing.Point(523, 196)
         Me.Label30.Name = "Label30"
-        Me.Label30.Size = New System.Drawing.Size(60, 40)
+        Me.Label30.Size = New System.Drawing.Size(60, 30)
         Me.Label30.TabIndex = 136
         Me.Label30.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -713,9 +713,9 @@ Partial Class Form2
         '
         Me.Label31.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label31.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label31.Location = New System.Drawing.Point(221, 308)
+        Me.Label31.Location = New System.Drawing.Point(193, 232)
         Me.Label31.Name = "Label31"
-        Me.Label31.Size = New System.Drawing.Size(60, 40)
+        Me.Label31.Size = New System.Drawing.Size(60, 30)
         Me.Label31.TabIndex = 147
         Me.Label31.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -723,9 +723,9 @@ Partial Class Form2
         '
         Me.Label32.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label32.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label32.Location = New System.Drawing.Point(287, 308)
+        Me.Label32.Location = New System.Drawing.Point(259, 232)
         Me.Label32.Name = "Label32"
-        Me.Label32.Size = New System.Drawing.Size(60, 40)
+        Me.Label32.Size = New System.Drawing.Size(60, 30)
         Me.Label32.TabIndex = 146
         Me.Label32.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -733,9 +733,9 @@ Partial Class Form2
         '
         Me.Label33.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label33.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label33.Location = New System.Drawing.Point(353, 308)
+        Me.Label33.Location = New System.Drawing.Point(325, 232)
         Me.Label33.Name = "Label33"
-        Me.Label33.Size = New System.Drawing.Size(60, 40)
+        Me.Label33.Size = New System.Drawing.Size(60, 30)
         Me.Label33.TabIndex = 145
         Me.Label33.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -743,9 +743,9 @@ Partial Class Form2
         '
         Me.Label34.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label34.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label34.Location = New System.Drawing.Point(417, 308)
+        Me.Label34.Location = New System.Drawing.Point(391, 232)
         Me.Label34.Name = "Label34"
-        Me.Label34.Size = New System.Drawing.Size(60, 40)
+        Me.Label34.Size = New System.Drawing.Size(60, 30)
         Me.Label34.TabIndex = 144
         Me.Label34.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -753,9 +753,9 @@ Partial Class Form2
         '
         Me.Label35.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label35.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label35.Location = New System.Drawing.Point(483, 308)
+        Me.Label35.Location = New System.Drawing.Point(457, 232)
         Me.Label35.Name = "Label35"
-        Me.Label35.Size = New System.Drawing.Size(60, 40)
+        Me.Label35.Size = New System.Drawing.Size(60, 30)
         Me.Label35.TabIndex = 143
         Me.Label35.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -763,9 +763,9 @@ Partial Class Form2
         '
         Me.Label36.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label36.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label36.Location = New System.Drawing.Point(549, 308)
+        Me.Label36.Location = New System.Drawing.Point(523, 232)
         Me.Label36.Name = "Label36"
-        Me.Label36.Size = New System.Drawing.Size(60, 40)
+        Me.Label36.Size = New System.Drawing.Size(60, 30)
         Me.Label36.TabIndex = 142
         Me.Label36.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -773,9 +773,9 @@ Partial Class Form2
         '
         Me.Label37.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label37.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label37.Location = New System.Drawing.Point(221, 437)
+        Me.Label37.Location = New System.Drawing.Point(193, 318)
         Me.Label37.Name = "Label37"
-        Me.Label37.Size = New System.Drawing.Size(60, 40)
+        Me.Label37.Size = New System.Drawing.Size(60, 30)
         Me.Label37.TabIndex = 153
         Me.Label37.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -783,9 +783,9 @@ Partial Class Form2
         '
         Me.Label38.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label38.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label38.Location = New System.Drawing.Point(287, 437)
+        Me.Label38.Location = New System.Drawing.Point(259, 318)
         Me.Label38.Name = "Label38"
-        Me.Label38.Size = New System.Drawing.Size(60, 40)
+        Me.Label38.Size = New System.Drawing.Size(60, 30)
         Me.Label38.TabIndex = 152
         Me.Label38.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -793,9 +793,9 @@ Partial Class Form2
         '
         Me.Label39.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label39.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label39.Location = New System.Drawing.Point(353, 437)
+        Me.Label39.Location = New System.Drawing.Point(325, 318)
         Me.Label39.Name = "Label39"
-        Me.Label39.Size = New System.Drawing.Size(60, 40)
+        Me.Label39.Size = New System.Drawing.Size(60, 30)
         Me.Label39.TabIndex = 151
         Me.Label39.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -803,9 +803,9 @@ Partial Class Form2
         '
         Me.Label40.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label40.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label40.Location = New System.Drawing.Point(417, 437)
+        Me.Label40.Location = New System.Drawing.Point(391, 318)
         Me.Label40.Name = "Label40"
-        Me.Label40.Size = New System.Drawing.Size(60, 40)
+        Me.Label40.Size = New System.Drawing.Size(60, 30)
         Me.Label40.TabIndex = 150
         Me.Label40.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -813,9 +813,9 @@ Partial Class Form2
         '
         Me.Label41.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label41.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label41.Location = New System.Drawing.Point(483, 437)
+        Me.Label41.Location = New System.Drawing.Point(457, 318)
         Me.Label41.Name = "Label41"
-        Me.Label41.Size = New System.Drawing.Size(60, 40)
+        Me.Label41.Size = New System.Drawing.Size(60, 30)
         Me.Label41.TabIndex = 149
         Me.Label41.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -823,9 +823,9 @@ Partial Class Form2
         '
         Me.Label42.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label42.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label42.Location = New System.Drawing.Point(549, 437)
+        Me.Label42.Location = New System.Drawing.Point(523, 318)
         Me.Label42.Name = "Label42"
-        Me.Label42.Size = New System.Drawing.Size(60, 40)
+        Me.Label42.Size = New System.Drawing.Size(60, 30)
         Me.Label42.TabIndex = 148
         Me.Label42.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -833,9 +833,9 @@ Partial Class Form2
         '
         Me.Label43.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label43.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label43.Location = New System.Drawing.Point(221, 483)
+        Me.Label43.Location = New System.Drawing.Point(193, 354)
         Me.Label43.Name = "Label43"
-        Me.Label43.Size = New System.Drawing.Size(60, 40)
+        Me.Label43.Size = New System.Drawing.Size(60, 30)
         Me.Label43.TabIndex = 159
         Me.Label43.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -843,9 +843,9 @@ Partial Class Form2
         '
         Me.Label44.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label44.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label44.Location = New System.Drawing.Point(287, 483)
+        Me.Label44.Location = New System.Drawing.Point(259, 354)
         Me.Label44.Name = "Label44"
-        Me.Label44.Size = New System.Drawing.Size(60, 40)
+        Me.Label44.Size = New System.Drawing.Size(60, 30)
         Me.Label44.TabIndex = 158
         Me.Label44.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -853,9 +853,9 @@ Partial Class Form2
         '
         Me.Label45.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label45.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label45.Location = New System.Drawing.Point(353, 483)
+        Me.Label45.Location = New System.Drawing.Point(325, 354)
         Me.Label45.Name = "Label45"
-        Me.Label45.Size = New System.Drawing.Size(60, 40)
+        Me.Label45.Size = New System.Drawing.Size(60, 30)
         Me.Label45.TabIndex = 157
         Me.Label45.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -863,9 +863,9 @@ Partial Class Form2
         '
         Me.Label46.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label46.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label46.Location = New System.Drawing.Point(417, 483)
+        Me.Label46.Location = New System.Drawing.Point(391, 354)
         Me.Label46.Name = "Label46"
-        Me.Label46.Size = New System.Drawing.Size(60, 40)
+        Me.Label46.Size = New System.Drawing.Size(60, 30)
         Me.Label46.TabIndex = 156
         Me.Label46.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -873,9 +873,9 @@ Partial Class Form2
         '
         Me.Label47.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label47.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label47.Location = New System.Drawing.Point(483, 483)
+        Me.Label47.Location = New System.Drawing.Point(457, 354)
         Me.Label47.Name = "Label47"
-        Me.Label47.Size = New System.Drawing.Size(60, 40)
+        Me.Label47.Size = New System.Drawing.Size(60, 30)
         Me.Label47.TabIndex = 155
         Me.Label47.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -883,9 +883,9 @@ Partial Class Form2
         '
         Me.Label48.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label48.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label48.Location = New System.Drawing.Point(549, 483)
+        Me.Label48.Location = New System.Drawing.Point(523, 354)
         Me.Label48.Name = "Label48"
-        Me.Label48.Size = New System.Drawing.Size(60, 40)
+        Me.Label48.Size = New System.Drawing.Size(60, 30)
         Me.Label48.TabIndex = 154
         Me.Label48.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -893,9 +893,9 @@ Partial Class Form2
         '
         Me.Label49.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label49.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label49.Location = New System.Drawing.Point(221, 529)
+        Me.Label49.Location = New System.Drawing.Point(193, 390)
         Me.Label49.Name = "Label49"
-        Me.Label49.Size = New System.Drawing.Size(60, 40)
+        Me.Label49.Size = New System.Drawing.Size(60, 30)
         Me.Label49.TabIndex = 165
         Me.Label49.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -903,9 +903,9 @@ Partial Class Form2
         '
         Me.Label50.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label50.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label50.Location = New System.Drawing.Point(287, 529)
+        Me.Label50.Location = New System.Drawing.Point(259, 390)
         Me.Label50.Name = "Label50"
-        Me.Label50.Size = New System.Drawing.Size(60, 40)
+        Me.Label50.Size = New System.Drawing.Size(60, 30)
         Me.Label50.TabIndex = 164
         Me.Label50.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -913,9 +913,9 @@ Partial Class Form2
         '
         Me.Label51.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label51.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label51.Location = New System.Drawing.Point(353, 529)
+        Me.Label51.Location = New System.Drawing.Point(325, 390)
         Me.Label51.Name = "Label51"
-        Me.Label51.Size = New System.Drawing.Size(60, 40)
+        Me.Label51.Size = New System.Drawing.Size(60, 30)
         Me.Label51.TabIndex = 163
         Me.Label51.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -923,9 +923,9 @@ Partial Class Form2
         '
         Me.Label52.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label52.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label52.Location = New System.Drawing.Point(417, 529)
+        Me.Label52.Location = New System.Drawing.Point(391, 390)
         Me.Label52.Name = "Label52"
-        Me.Label52.Size = New System.Drawing.Size(60, 40)
+        Me.Label52.Size = New System.Drawing.Size(60, 30)
         Me.Label52.TabIndex = 162
         Me.Label52.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -933,9 +933,9 @@ Partial Class Form2
         '
         Me.Label53.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label53.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label53.Location = New System.Drawing.Point(483, 529)
+        Me.Label53.Location = New System.Drawing.Point(457, 390)
         Me.Label53.Name = "Label53"
-        Me.Label53.Size = New System.Drawing.Size(60, 40)
+        Me.Label53.Size = New System.Drawing.Size(60, 30)
         Me.Label53.TabIndex = 161
         Me.Label53.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -943,9 +943,9 @@ Partial Class Form2
         '
         Me.Label54.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label54.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label54.Location = New System.Drawing.Point(549, 529)
+        Me.Label54.Location = New System.Drawing.Point(523, 390)
         Me.Label54.Name = "Label54"
-        Me.Label54.Size = New System.Drawing.Size(60, 40)
+        Me.Label54.Size = New System.Drawing.Size(60, 30)
         Me.Label54.TabIndex = 160
         Me.Label54.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -953,9 +953,9 @@ Partial Class Form2
         '
         Me.Label55.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label55.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label55.Location = New System.Drawing.Point(221, 575)
+        Me.Label55.Location = New System.Drawing.Point(193, 426)
         Me.Label55.Name = "Label55"
-        Me.Label55.Size = New System.Drawing.Size(60, 40)
+        Me.Label55.Size = New System.Drawing.Size(60, 30)
         Me.Label55.TabIndex = 171
         Me.Label55.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -963,9 +963,9 @@ Partial Class Form2
         '
         Me.Label56.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label56.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label56.Location = New System.Drawing.Point(287, 575)
+        Me.Label56.Location = New System.Drawing.Point(259, 426)
         Me.Label56.Name = "Label56"
-        Me.Label56.Size = New System.Drawing.Size(60, 40)
+        Me.Label56.Size = New System.Drawing.Size(60, 30)
         Me.Label56.TabIndex = 170
         Me.Label56.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -973,9 +973,9 @@ Partial Class Form2
         '
         Me.Label57.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label57.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label57.Location = New System.Drawing.Point(353, 575)
+        Me.Label57.Location = New System.Drawing.Point(325, 426)
         Me.Label57.Name = "Label57"
-        Me.Label57.Size = New System.Drawing.Size(60, 40)
+        Me.Label57.Size = New System.Drawing.Size(60, 30)
         Me.Label57.TabIndex = 169
         Me.Label57.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -983,9 +983,9 @@ Partial Class Form2
         '
         Me.Label58.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label58.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label58.Location = New System.Drawing.Point(417, 575)
+        Me.Label58.Location = New System.Drawing.Point(391, 426)
         Me.Label58.Name = "Label58"
-        Me.Label58.Size = New System.Drawing.Size(60, 40)
+        Me.Label58.Size = New System.Drawing.Size(60, 30)
         Me.Label58.TabIndex = 168
         Me.Label58.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -993,9 +993,9 @@ Partial Class Form2
         '
         Me.Label59.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label59.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label59.Location = New System.Drawing.Point(483, 575)
+        Me.Label59.Location = New System.Drawing.Point(457, 426)
         Me.Label59.Name = "Label59"
-        Me.Label59.Size = New System.Drawing.Size(60, 40)
+        Me.Label59.Size = New System.Drawing.Size(60, 30)
         Me.Label59.TabIndex = 167
         Me.Label59.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -1003,9 +1003,9 @@ Partial Class Form2
         '
         Me.Label60.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label60.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label60.Location = New System.Drawing.Point(549, 575)
+        Me.Label60.Location = New System.Drawing.Point(523, 426)
         Me.Label60.Name = "Label60"
-        Me.Label60.Size = New System.Drawing.Size(60, 40)
+        Me.Label60.Size = New System.Drawing.Size(60, 30)
         Me.Label60.TabIndex = 166
         Me.Label60.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -1013,20 +1013,20 @@ Partial Class Form2
         '
         Me.TextBox4.BackColor = System.Drawing.Color.LightGray
         Me.TextBox4.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.TextBox4.Location = New System.Drawing.Point(12, 216)
+        Me.TextBox4.Location = New System.Drawing.Point(12, 160)
         Me.TextBox4.Multiline = True
         Me.TextBox4.Name = "TextBox4"
-        Me.TextBox4.Size = New System.Drawing.Size(203, 40)
+        Me.TextBox4.Size = New System.Drawing.Size(150, 30)
         Me.TextBox4.TabIndex = 172
         '
         'TextBox20
         '
         Me.TextBox20.BackColor = System.Drawing.Color.LightGray
         Me.TextBox20.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.TextBox20.Location = New System.Drawing.Point(618, 216)
+        Me.TextBox20.Location = New System.Drawing.Point(617, 160)
         Me.TextBox20.Multiline = True
         Me.TextBox20.Name = "TextBox20"
-        Me.TextBox20.Size = New System.Drawing.Size(200, 40)
+        Me.TextBox20.Size = New System.Drawing.Size(151, 30)
         Me.TextBox20.TabIndex = 179
         Me.TextBox20.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
@@ -1034,20 +1034,20 @@ Partial Class Form2
         '
         Me.TextBox21.BackColor = System.Drawing.Color.LightGray
         Me.TextBox21.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox21.Location = New System.Drawing.Point(12, 262)
+        Me.TextBox21.Location = New System.Drawing.Point(12, 196)
         Me.TextBox21.Multiline = True
         Me.TextBox21.Name = "TextBox21"
-        Me.TextBox21.Size = New System.Drawing.Size(203, 40)
+        Me.TextBox21.Size = New System.Drawing.Size(150, 30)
         Me.TextBox21.TabIndex = 180
         '
         'TextBox29
         '
         Me.TextBox29.BackColor = System.Drawing.Color.LightGray
         Me.TextBox29.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox29.Location = New System.Drawing.Point(618, 262)
+        Me.TextBox29.Location = New System.Drawing.Point(617, 196)
         Me.TextBox29.Multiline = True
         Me.TextBox29.Name = "TextBox29"
-        Me.TextBox29.Size = New System.Drawing.Size(200, 40)
+        Me.TextBox29.Size = New System.Drawing.Size(151, 30)
         Me.TextBox29.TabIndex = 187
         Me.TextBox29.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
@@ -1055,20 +1055,20 @@ Partial Class Form2
         '
         Me.TextBox30.BackColor = System.Drawing.Color.LightGray
         Me.TextBox30.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox30.Location = New System.Drawing.Point(12, 308)
+        Me.TextBox30.Location = New System.Drawing.Point(12, 232)
         Me.TextBox30.Multiline = True
         Me.TextBox30.Name = "TextBox30"
-        Me.TextBox30.Size = New System.Drawing.Size(203, 40)
+        Me.TextBox30.Size = New System.Drawing.Size(150, 30)
         Me.TextBox30.TabIndex = 188
         '
         'TextBox37
         '
         Me.TextBox37.BackColor = System.Drawing.Color.LightGray
         Me.TextBox37.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.TextBox37.Location = New System.Drawing.Point(618, 308)
+        Me.TextBox37.Location = New System.Drawing.Point(617, 232)
         Me.TextBox37.Multiline = True
         Me.TextBox37.Name = "TextBox37"
-        Me.TextBox37.Size = New System.Drawing.Size(200, 40)
+        Me.TextBox37.Size = New System.Drawing.Size(151, 30)
         Me.TextBox37.TabIndex = 195
         Me.TextBox37.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
@@ -1076,9 +1076,9 @@ Partial Class Form2
         '
         Me.Label61.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label61.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label61.Location = New System.Drawing.Point(221, 621)
+        Me.Label61.Location = New System.Drawing.Point(193, 462)
         Me.Label61.Name = "Label61"
-        Me.Label61.Size = New System.Drawing.Size(60, 40)
+        Me.Label61.Size = New System.Drawing.Size(60, 30)
         Me.Label61.TabIndex = 201
         Me.Label61.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -1086,9 +1086,9 @@ Partial Class Form2
         '
         Me.Label62.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label62.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label62.Location = New System.Drawing.Point(287, 621)
+        Me.Label62.Location = New System.Drawing.Point(259, 462)
         Me.Label62.Name = "Label62"
-        Me.Label62.Size = New System.Drawing.Size(60, 40)
+        Me.Label62.Size = New System.Drawing.Size(60, 30)
         Me.Label62.TabIndex = 200
         Me.Label62.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -1096,9 +1096,9 @@ Partial Class Form2
         '
         Me.Label63.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label63.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label63.Location = New System.Drawing.Point(353, 621)
+        Me.Label63.Location = New System.Drawing.Point(325, 462)
         Me.Label63.Name = "Label63"
-        Me.Label63.Size = New System.Drawing.Size(60, 40)
+        Me.Label63.Size = New System.Drawing.Size(60, 30)
         Me.Label63.TabIndex = 199
         Me.Label63.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -1106,9 +1106,9 @@ Partial Class Form2
         '
         Me.Label64.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label64.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label64.Location = New System.Drawing.Point(417, 621)
+        Me.Label64.Location = New System.Drawing.Point(391, 462)
         Me.Label64.Name = "Label64"
-        Me.Label64.Size = New System.Drawing.Size(60, 40)
+        Me.Label64.Size = New System.Drawing.Size(60, 30)
         Me.Label64.TabIndex = 198
         Me.Label64.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -1116,9 +1116,9 @@ Partial Class Form2
         '
         Me.Label65.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label65.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label65.Location = New System.Drawing.Point(483, 621)
+        Me.Label65.Location = New System.Drawing.Point(457, 462)
         Me.Label65.Name = "Label65"
-        Me.Label65.Size = New System.Drawing.Size(60, 40)
+        Me.Label65.Size = New System.Drawing.Size(60, 30)
         Me.Label65.TabIndex = 197
         Me.Label65.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -1126,9 +1126,9 @@ Partial Class Form2
         '
         Me.Label66.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label66.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label66.Location = New System.Drawing.Point(549, 621)
+        Me.Label66.Location = New System.Drawing.Point(523, 462)
         Me.Label66.Name = "Label66"
-        Me.Label66.Size = New System.Drawing.Size(60, 40)
+        Me.Label66.Size = New System.Drawing.Size(60, 30)
         Me.Label66.TabIndex = 196
         Me.Label66.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -1136,9 +1136,9 @@ Partial Class Form2
         '
         Me.Label67.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label67.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label67.Location = New System.Drawing.Point(221, 667)
+        Me.Label67.Location = New System.Drawing.Point(193, 498)
         Me.Label67.Name = "Label67"
-        Me.Label67.Size = New System.Drawing.Size(60, 40)
+        Me.Label67.Size = New System.Drawing.Size(60, 30)
         Me.Label67.TabIndex = 207
         Me.Label67.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -1146,9 +1146,9 @@ Partial Class Form2
         '
         Me.Label68.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label68.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label68.Location = New System.Drawing.Point(287, 667)
+        Me.Label68.Location = New System.Drawing.Point(259, 498)
         Me.Label68.Name = "Label68"
-        Me.Label68.Size = New System.Drawing.Size(60, 40)
+        Me.Label68.Size = New System.Drawing.Size(60, 30)
         Me.Label68.TabIndex = 206
         Me.Label68.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -1156,9 +1156,9 @@ Partial Class Form2
         '
         Me.Label69.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label69.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label69.Location = New System.Drawing.Point(353, 667)
+        Me.Label69.Location = New System.Drawing.Point(325, 498)
         Me.Label69.Name = "Label69"
-        Me.Label69.Size = New System.Drawing.Size(60, 40)
+        Me.Label69.Size = New System.Drawing.Size(60, 30)
         Me.Label69.TabIndex = 205
         Me.Label69.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -1166,9 +1166,9 @@ Partial Class Form2
         '
         Me.Label70.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label70.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label70.Location = New System.Drawing.Point(417, 667)
+        Me.Label70.Location = New System.Drawing.Point(391, 498)
         Me.Label70.Name = "Label70"
-        Me.Label70.Size = New System.Drawing.Size(60, 40)
+        Me.Label70.Size = New System.Drawing.Size(60, 30)
         Me.Label70.TabIndex = 204
         Me.Label70.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -1176,9 +1176,9 @@ Partial Class Form2
         '
         Me.Label71.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label71.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label71.Location = New System.Drawing.Point(483, 667)
+        Me.Label71.Location = New System.Drawing.Point(457, 498)
         Me.Label71.Name = "Label71"
-        Me.Label71.Size = New System.Drawing.Size(60, 40)
+        Me.Label71.Size = New System.Drawing.Size(60, 30)
         Me.Label71.TabIndex = 203
         Me.Label71.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -1186,9 +1186,9 @@ Partial Class Form2
         '
         Me.Label72.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label72.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label72.Location = New System.Drawing.Point(549, 667)
+        Me.Label72.Location = New System.Drawing.Point(523, 498)
         Me.Label72.Name = "Label72"
-        Me.Label72.Size = New System.Drawing.Size(60, 40)
+        Me.Label72.Size = New System.Drawing.Size(60, 30)
         Me.Label72.TabIndex = 202
         Me.Label72.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -1196,9 +1196,9 @@ Partial Class Form2
         '
         Me.Label73.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label73.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label73.Location = New System.Drawing.Point(221, 732)
+        Me.Label73.Location = New System.Drawing.Point(193, 534)
         Me.Label73.Name = "Label73"
-        Me.Label73.Size = New System.Drawing.Size(60, 40)
+        Me.Label73.Size = New System.Drawing.Size(60, 30)
         Me.Label73.TabIndex = 213
         Me.Label73.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -1206,9 +1206,9 @@ Partial Class Form2
         '
         Me.Label74.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label74.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label74.Location = New System.Drawing.Point(287, 732)
+        Me.Label74.Location = New System.Drawing.Point(259, 534)
         Me.Label74.Name = "Label74"
-        Me.Label74.Size = New System.Drawing.Size(60, 40)
+        Me.Label74.Size = New System.Drawing.Size(60, 30)
         Me.Label74.TabIndex = 212
         Me.Label74.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -1216,9 +1216,9 @@ Partial Class Form2
         '
         Me.Label75.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label75.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label75.Location = New System.Drawing.Point(353, 732)
+        Me.Label75.Location = New System.Drawing.Point(325, 534)
         Me.Label75.Name = "Label75"
-        Me.Label75.Size = New System.Drawing.Size(60, 40)
+        Me.Label75.Size = New System.Drawing.Size(60, 30)
         Me.Label75.TabIndex = 211
         Me.Label75.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -1226,9 +1226,9 @@ Partial Class Form2
         '
         Me.Label76.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label76.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label76.Location = New System.Drawing.Point(417, 732)
+        Me.Label76.Location = New System.Drawing.Point(391, 534)
         Me.Label76.Name = "Label76"
-        Me.Label76.Size = New System.Drawing.Size(60, 40)
+        Me.Label76.Size = New System.Drawing.Size(60, 30)
         Me.Label76.TabIndex = 210
         Me.Label76.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -1236,9 +1236,9 @@ Partial Class Form2
         '
         Me.Label77.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label77.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label77.Location = New System.Drawing.Point(483, 732)
+        Me.Label77.Location = New System.Drawing.Point(457, 534)
         Me.Label77.Name = "Label77"
-        Me.Label77.Size = New System.Drawing.Size(60, 40)
+        Me.Label77.Size = New System.Drawing.Size(60, 30)
         Me.Label77.TabIndex = 209
         Me.Label77.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -1246,9 +1246,9 @@ Partial Class Form2
         '
         Me.Label78.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label78.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
-        Me.Label78.Location = New System.Drawing.Point(549, 732)
+        Me.Label78.Location = New System.Drawing.Point(523, 534)
         Me.Label78.Name = "Label78"
-        Me.Label78.Size = New System.Drawing.Size(60, 40)
+        Me.Label78.Size = New System.Drawing.Size(60, 30)
         Me.Label78.TabIndex = 208
         Me.Label78.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -1257,7 +1257,7 @@ Partial Class Form2
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.Menu
-        Me.ClientSize = New System.Drawing.Size(830, 741)
+        Me.ClientSize = New System.Drawing.Size(774, 602)
         Me.Controls.Add(Me.Label73)
         Me.Controls.Add(Me.Label74)
         Me.Controls.Add(Me.Label75)
