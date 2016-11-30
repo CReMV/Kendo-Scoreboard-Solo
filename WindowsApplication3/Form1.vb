@@ -428,6 +428,7 @@
     Private Sub Button17_Click(sender As Object, e As EventArgs) Handles Button17.Click
         Form2.TextBox1.Hide()
     End Sub
+
 End Class
 Public Class InputResizer
 
