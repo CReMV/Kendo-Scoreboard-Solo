@@ -135,6 +135,12 @@ Partial Class Form2
         Me.TextBox2 = New System.Windows.Forms.TextBox()
         Me.TextBox9 = New System.Windows.Forms.TextBox()
         Me.TextBox13 = New System.Windows.Forms.TextBox()
+        Me.Label79 = New System.Windows.Forms.Label()
+        Me.Label80 = New System.Windows.Forms.Label()
+        Me.Label81 = New System.Windows.Forms.Label()
+        Me.Label82 = New System.Windows.Forms.Label()
+        Me.Label83 = New System.Windows.Forms.Label()
+        Me.Label84 = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
         'TextBox1
@@ -194,10 +200,10 @@ Partial Class Form2
         Me.TextBox39.BackColor = System.Drawing.Color.Brown
         Me.TextBox39.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox39.ForeColor = System.Drawing.Color.White
-        Me.TextBox39.Location = New System.Drawing.Point(618, 37)
+        Me.TextBox39.Location = New System.Drawing.Point(617, 37)
         Me.TextBox39.Multiline = True
         Me.TextBox39.Name = "TextBox39"
-        Me.TextBox39.Size = New System.Drawing.Size(150, 30)
+        Me.TextBox39.Size = New System.Drawing.Size(151, 30)
         Me.TextBox39.TabIndex = 38
         Me.TextBox39.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
@@ -1273,7 +1279,7 @@ Partial Class Form2
         Me.TextBox9.Location = New System.Drawing.Point(12, 252)
         Me.TextBox9.Multiline = True
         Me.TextBox9.Name = "TextBox9"
-        Me.TextBox9.Size = New System.Drawing.Size(150, 26)
+        Me.TextBox9.Size = New System.Drawing.Size(151, 30)
         Me.TextBox9.TabIndex = 214
         '
         'TextBox13
@@ -1284,16 +1290,82 @@ Partial Class Form2
         Me.TextBox13.Location = New System.Drawing.Point(618, 252)
         Me.TextBox13.Multiline = True
         Me.TextBox13.Name = "TextBox13"
-        Me.TextBox13.Size = New System.Drawing.Size(150, 26)
+        Me.TextBox13.Size = New System.Drawing.Size(151, 30)
         Me.TextBox13.TabIndex = 215
         Me.TextBox13.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
+        '
+        'Label79
+        '
+        Me.Label79.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+        Me.Label79.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
+        Me.Label79.Location = New System.Drawing.Point(193, 252)
+        Me.Label79.Name = "Label79"
+        Me.Label79.Size = New System.Drawing.Size(60, 30)
+        Me.Label79.TabIndex = 221
+        Me.Label79.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+        '
+        'Label80
+        '
+        Me.Label80.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+        Me.Label80.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
+        Me.Label80.Location = New System.Drawing.Point(259, 252)
+        Me.Label80.Name = "Label80"
+        Me.Label80.Size = New System.Drawing.Size(60, 30)
+        Me.Label80.TabIndex = 220
+        Me.Label80.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+        '
+        'Label81
+        '
+        Me.Label81.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+        Me.Label81.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
+        Me.Label81.Location = New System.Drawing.Point(325, 252)
+        Me.Label81.Name = "Label81"
+        Me.Label81.Size = New System.Drawing.Size(60, 30)
+        Me.Label81.TabIndex = 219
+        Me.Label81.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+        '
+        'Label82
+        '
+        Me.Label82.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+        Me.Label82.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
+        Me.Label82.Location = New System.Drawing.Point(391, 252)
+        Me.Label82.Name = "Label82"
+        Me.Label82.Size = New System.Drawing.Size(60, 30)
+        Me.Label82.TabIndex = 218
+        Me.Label82.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+        '
+        'Label83
+        '
+        Me.Label83.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+        Me.Label83.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
+        Me.Label83.Location = New System.Drawing.Point(457, 252)
+        Me.Label83.Name = "Label83"
+        Me.Label83.Size = New System.Drawing.Size(60, 30)
+        Me.Label83.TabIndex = 217
+        Me.Label83.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+        '
+        'Label84
+        '
+        Me.Label84.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+        Me.Label84.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
+        Me.Label84.Location = New System.Drawing.Point(523, 252)
+        Me.Label84.Name = "Label84"
+        Me.Label84.Size = New System.Drawing.Size(60, 30)
+        Me.Label84.TabIndex = 216
+        Me.Label84.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
         'Form2
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.BackColor = System.Drawing.SystemColors.Menu
+        Me.BackColor = System.Drawing.Color.LightCyan
         Me.ClientSize = New System.Drawing.Size(774, 602)
+        Me.Controls.Add(Me.Label79)
+        Me.Controls.Add(Me.Label80)
+        Me.Controls.Add(Me.Label81)
+        Me.Controls.Add(Me.Label82)
+        Me.Controls.Add(Me.Label83)
+        Me.Controls.Add(Me.Label84)
         Me.Controls.Add(Me.TextBox13)
         Me.Controls.Add(Me.TextBox9)
         Me.Controls.Add(Me.Label73)
@@ -1527,4 +1599,10 @@ Partial Class Form2
     Friend WithEvents TextBox2 As TextBox
     Friend WithEvents TextBox9 As TextBox
     Friend WithEvents TextBox13 As TextBox
+    Friend WithEvents Label79 As Label
+    Friend WithEvents Label80 As Label
+    Friend WithEvents Label81 As Label
+    Friend WithEvents Label82 As Label
+    Friend WithEvents Label83 As Label
+    Friend WithEvents Label84 As Label
 End Class

@@ -45,6 +45,8 @@
         Form2.TextBox20.Text = TextBox14.Text
         Form2.TextBox29.Text = TextBox23.Text
         Form2.TextBox37.Text = TextBox25.Text
+        Form2.TextBox9.Text = TextBox26.Text
+        Form2.TextBox13.Text = TextBox27.Text
         Form2.Label1.Text = ComboBox1.Text
         Form2.Label2.Text = ComboBox2.Text
         Form2.Label3.Text = ComboBox3.Text
@@ -123,6 +125,12 @@
         Form2.Label76.Text = ComboBox76.Text
         Form2.Label77.Text = ComboBox77.Text
         Form2.Label78.Text = ComboBox78.Text
+        Form2.Label79.Text = ComboBox79.Text
+        Form2.Label80.Text = ComboBox80.Text
+        Form2.Label81.Text = ComboBox81.Text
+        Form2.Label82.Text = ComboBox82.Text
+        Form2.Label83.Text = ComboBox83.Text
+        Form2.Label84.Text = ComboBox84.Text
     End Sub
 
     Private Sub ButtonClear(sender As Object, e As EventArgs) Handles Button2.Click
@@ -149,7 +157,7 @@
         TextBox20.Text = "Player 4"
         TextBox19.Text = "Player 5"
         TextBox18.Text = "Player 6"
-        TextBox4.Text = "Player 4"
+        TextBox4.Text = "Player B"
         TextBox44.Text = "POOL A AND POOL B"
         TextBox7.Text = "Player 4"
         TextBox21.Text = "Player 5"
@@ -157,6 +165,8 @@
         TextBox14.Text = "Player 4"
         TextBox23.Text = "Player 5"
         TextBox25.Text = "Player 6"
+        TextBox26.Text = "Player A"
+        TextBox27.Text = "Player B"
         ComboBox1.Text = ""
         ComboBox2.Text = ""
         ComboBox3.Text = ""
@@ -235,6 +245,12 @@
         ComboBox76.Text = ""
         ComboBox77.Text = ""
         ComboBox78.Text = ""
+        ComboBox79.Text = ""
+        ComboBox80.Text = ""
+        ComboBox81.Text = ""
+        ComboBox82.Text = ""
+        ComboBox83.Text = ""
+        ComboBox84.Text = ""
     End Sub
 
     Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
